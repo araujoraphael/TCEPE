@@ -1,0 +1,31 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#endif
+
+#define kUIColorArray [NSArray arrayWithObjects:[UIColor colorWithRed:230.0/255.0 green:94.0/255.0 blue:86.0/255.0 alpha:1.0], [UIColor colorWithRed:241/255.0 green:120.0/255.0 blue:86.0/255.0 alpha:1.0],[UIColor colorWithRed:247/255.0 green:171.0/255.0 blue:50.0/255.0 alpha:1.0],[UIColor colorWithRed:253.0/255.0 green:209.0/255.0 blue:58.0/255.0 alpha:1.0],[UIColor colorWithRed:150.0/255.0 green:212.0/255.0 blue:98.0/255.0 alpha:1.0],[UIColor colorWithRed:83.0/255.0 green:182.0/255.0 blue:112.0/255.0 alpha:1.0], [UIColor colorWithRed:36.0/255.0 green:125.0/255.0 blue:176.0/255.0 alpha:1.0], [UIColor grayColor], nil]
+
+#define URLSERVER @"http://www.paulodiniz.com.br/tce/webservice.php"
+
+
+#define YEARS_DIC [NSDictionary dictionaryWithObjectsAndKeys: @"2009",@"2009", @"2010",@"2010", @"2011",@"2011", @"2012", @"2012", @"2013", @"2013", nil];
+
+#define JUDGEMENT_DIC [NSDictionary dictionaryWithObjectsAndKeys: @"1", @"Menor preço", @"2", @"Técnica e preço",@"3", @"Melhor técnica",@"4", @"Maior lance ou oferta", nil];
+
+#define PHASE_DIC [NSDictionary dictionaryWithObjectsAndKeys: @"1", @"Em rascunho", @"2", @"Processo instaurado", @"3", @"Edital publicado", @"4", @"Licitantes cadastrados", @"5", @"Habilitação concluída", @"6", @"Julgamento concluído", @"7", @"Processo adjudicado / Homologado / Ratificado", nil];
+
+#define TYPE_DIC [NSDictionary dictionaryWithObjectsAndKeys: @"1", @"Concorrência", @"4", @"Tomada de preços", @"5", @"Convite", @"7", @"Leilão", @"8", @"Pregão eletrônico", @"9", @"Pregão presencial", @"10", @"Dispensa", @"11", @"Inexigibilidade", nil];
+
+#define STATUS_DIC [NSDictionary dictionaryWithObjectsAndKeys: @"1", @"Processo deserto", @"2", @"Processo fracassado", @"3", @"Processo anulado", @"4", @"Processo revogado", @"5", @"Processo suspenso por determinação judicial", @"6", @"Processo sustado por determinação do TCE", @"7", @"Em andamento", @"8", @"Edital impugnado aguardando retificação", @"9", @"Concluído", nil];
