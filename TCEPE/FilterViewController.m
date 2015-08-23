@@ -84,6 +84,27 @@ NSInteger currentFilter;
     }
 }
 
+- (BOOL)shouldPerformSegueWithIdentifier:(NSString *)identifier sender:(id)sender
+{
+    if([identifier isEqualToString:@"bidssegue"])
+    {
+        if((![self.phaseButton.titleLabel.text isEqualToString:@"Todos"]) || (![self.statusButton.titleLabel.text isEqualToString:@"Todas"]) )
+        {
+            return YES;
+        }
+        
+        else
+        {
+            UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"Atenção" message:@"Você deve selecionar, pelo menos, um ESTÁGIO ou uma SITUAÇÃO para prosseguir." delegate:self cancelButtonTitle:@"Ok" otherButtonTitles: nil];
+            [alert show];
+            
+            return NO;
+        }
+
+    }
+    
+    return YES;
+}
 - (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender
 {
     if(((UIButton *)sender).tag < 5)

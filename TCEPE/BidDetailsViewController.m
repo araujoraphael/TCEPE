@@ -89,9 +89,11 @@ NSObject *bid;
     }
     
 
-    NSLog(@"%@", requestUrl);
+    //NSLog(@"%@", requestUrl);
     
     AFHTTPRequestOperationManager *manager = [AFHTTPRequestOperationManager manager];
+    manager.responseSerializer.acceptableContentTypes = [NSSet setWithObject:@"text/html"];
+
     [manager GET:requestUrl
       parameters:nil
          success:^(AFHTTPRequestOperation *operation, id responseObject) {
@@ -176,7 +178,7 @@ NSObject *bid;
     
     NSString *number = [bid valueForKey:@"numero"];
     
-    if(number)
+    if([number class] != [NSNull class])
     {
         @try {
             numberYearStr = [NSString stringWithFormat:@"%@/", number];
@@ -191,7 +193,7 @@ NSObject *bid;
     
     NSString *year = [bid valueForKey:@"ano"];
     
-    if(year)
+    if([year class] != [NSNull class])
     {
         @try {
             numberYearStr = [numberYearStr stringByAppendingString: year];
@@ -208,7 +210,7 @@ NSObject *bid;
     
     NSString *typeStr = [bid valueForKey:@"modalidade"];
     
-    if(typeStr)
+    if([typeStr class] != [NSNull class])
     {
         @try {
             self.typeLabel.text = [NSString stringWithFormat:@"Modalidade: %@", typeStr];
@@ -223,7 +225,7 @@ NSObject *bid;
     }
     
     NSString *openDateStr = [bid valueForKey:@"dataabertura"];
-    if(openDateStr)
+    if([openDateStr class] != [NSNull class])
     {
         @try {
             self.openDateLabel.text = openDateStr;
@@ -238,7 +240,7 @@ NSObject *bid;
     
     NSString *objectStr = [bid valueForKey:@"ClassificacaoObjeto"];
     
-    if(objectStr)
+    if([objectStr class] != [NSNull class])
     {
         @try {
             
@@ -263,7 +265,7 @@ NSObject *bid;
     
     NSString *kindStr = [bid valueForKey:@"naturezaObj"];
     
-    if(kindStr)
+    if([kindStr class] != [NSNull class])
     {
         @try {
             CGRect frame = CGRectMake(6, yOffSet, 200, 21);
@@ -301,7 +303,7 @@ NSObject *bid;
     
     NSString *objectAttributesStr = [bid valueForKey:@"caracteristicaObj"];
     
-    if(objectAttributesStr)
+    if([objectAttributesStr class] != [NSNull class])
     {
         @try {
             CGRect frame = CGRectMake(6, yOffSet, 200, 21);
@@ -337,7 +339,7 @@ NSObject *bid;
    
     NSString *phaseStr = [bid valueForKey:@"estagio"];
     
-    if(phaseStr)
+    if([phaseStr class] != [NSNull class])
     {
         @try {
             CGRect frame = CGRectMake(6, yOffSet, 100, 21);
@@ -374,7 +376,7 @@ NSObject *bid;
     
     NSString *statusStr = [bid valueForKey:@"situacao"];
     
-    if(statusStr)
+    if([statusStr class] != [NSNull class])
     {
         @try {
             CGRect frame = CGRectMake(6, yOffSet, 100, 21);
@@ -409,8 +411,8 @@ NSObject *bid;
     }
     
     NSString *totalPriceStr = [bid valueForKey:@"precototal"];
-    
-    if(totalPriceStr)
+    //NSLog(@"class %@ value %@", [totalPriceStr class], totalPriceStr);
+    if([totalPriceStr class] != [NSNull class])
     {
         @try {
             CGRect frame = CGRectMake(6, yOffSet, 100, 21);
@@ -424,7 +426,7 @@ NSObject *bid;
             yOffSet = totalPriceLabel.frame.origin.y + totalPriceLabel.frame.size.height + 8;
             
             frame = CGRectMake(6, yOffSet, 308, 21);
-            
+           // NSLog(@"hummm %@", bid);
             NSArray *splittedStr = [totalPriceStr componentsSeparatedByString:@"."];
             NSString *splittedStrLeft = splittedStr[0];
             NSString *splittedStrRight = splittedStr[1];
@@ -462,6 +464,7 @@ NSObject *bid;
         [bookmarks removeObject:[bid valueForKey:@"codigo"]];
         newBookmarks = bookmarks;
         self.bookmarkedButton.selected = NO;
+        [self.bookmarkedButton setSelected:NO];
     }
     
     else

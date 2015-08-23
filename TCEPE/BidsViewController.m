@@ -153,6 +153,7 @@ NSString *selectedBidID;
     NSObject *bid = [bids objectAtIndex:indexPath.row];
     if(!cell)
     {
+        //NSLog(@">>> NO CELL");
         NSArray *nibs = [[NSBundle mainBundle] loadNibNamed:@"BidTableViewCell" owner:self options:nil];
         cell = (BidTableViewCell *)[nibs objectAtIndex:0];
         cell.accessoryType = UITableViewCellAccessoryDisclosureIndicator;
@@ -235,30 +236,7 @@ NSString *selectedBidID;
     NSString *requestUrl = [URLSERVER stringByAppendingString:  @"?acao=filtro"];
     BOOL noFilter = YES;
     
-    if(self.yearValue)
-    {
-        requestUrl = [requestUrl stringByAppendingString:[NSString stringWithFormat:@"&ano=%@", self.yearValue]];
-        
-        noFilter = NO;
-    }
-    
-    if(self.judgeValue)
-    {
-        requestUrl = [requestUrl stringByAppendingString:[NSString stringWithFormat:@"&julgamento=%@", self.judgeValue]];
-        
-        noFilter = NO;
-
-    }
-    
-    if(self.typeValue)
-    {
-        requestUrl = [requestUrl stringByAppendingString:[NSString stringWithFormat:@"&modalidade=%@", self.typeValue]];
-        
-        noFilter = NO;
-
-    }
-    
-    if(self.phaseValue)
+        if(self.phaseValue)
     {
         requestUrl = [requestUrl stringByAppendingString:[NSString stringWithFormat:@"&estagio=%@", self.phaseValue]];
         
@@ -273,11 +251,13 @@ NSString *selectedBidID;
         noFilter = NO;
 
     }
-    NSLog(@"%@", requestUrl);
+   // NSLog(@"%@", requestUrl);
     
-    //requestUrl = @"http://www.paulodiniz.com.br/tce/webservice.php?acao=filtro&ano=2013&julgamento=2";
+    requestUrl = @"http://www.paulodiniz.com.br/tce/webservice.php?acao=filtro&ano=2013&julgamento=2";
     if(noFilter)
     {
+        //NSLog(@"porra1");
+
         [MBProgressHUD hideAllHUDsForView:self.navigationController.view animated:YES];
 
         self.infoLabel.text = @"Você precisa selecionar pelo menos uma opção do filtro na tela anterior.";
@@ -296,13 +276,15 @@ NSString *selectedBidID;
     
     else
     {
+        //NSLog(@"porra");
         AFHTTPRequestOperationManager *manager = [AFHTTPRequestOperationManager manager];
+        manager.responseSerializer.acceptableContentTypes = [NSSet setWithObject:@"text/html"];
         [manager GET:requestUrl
           parameters:nil
              success:^(AFHTTPRequestOperation *operation, id responseObject) {
                  bids = responseObject;
                  [MBProgressHUD hideAllHUDsForView:self.navigationController.view animated:YES];
-                 
+                 //NSLog(@"response obj %@", bids);
                  if([bids count] > 0)
                  {
                      
@@ -338,7 +320,7 @@ NSString *selectedBidID;
                  
              }
              failure:^(AFHTTPRequestOperation *operation, NSError *error) {
-                 
+                 //NSLog(@"carai! %@", error.userInfo);
                  switch (error.code) {
                      case -1009:
                          self.infoLabel.text = @"Verifique sua conexão com a Internet e recarregue o conteúdo.";
@@ -348,6 +330,8 @@ NSString *selectedBidID;
                          self.infoLabel.text = @"Erro na consulta com o banco de dados. Tente novamente em instantes";
                          break;
                  }
+                 
+                 //NSLog(@"info %@", self.infoLabel.text);
                  //             UIAlertView *av = [[UIAlertView alloc] initWithTitle:@"Erro na consulta com o banco de dados. Tente novamente em instantes" message:[NSString stringWithFormat:@"%@", error] delegate:nil cancelButtonTitle:@"OK" otherButtonTitles:nil];
                  //             [av show];
                  
@@ -446,23 +430,31 @@ NSString *selectedBidID;
 -(void)requestBid:(NSString *)bidID willIndex:(NSInteger )index
 {
     NSString *requestUrl = [URLSERVER stringByAppendingString:  @"?acao=licitacaoID"];
-    
+    //NSLog(@"request bid %@", requestUrl);
     if(bidID)
     {
         requestUrl = [requestUrl stringByAppendingString:[NSString stringWithFormat:@"&codigo=%@", bidID]];
+        //NSLog(@"request bidID %@", requestUrl);
+
     }
     
     AFHTTPRequestOperationManager *manager = [AFHTTPRequestOperationManager manager];
+    manager.responseSerializer.acceptableContentTypes = [NSSet setWithObject:@"text/html"];
+
     [manager GET:requestUrl
       parameters:nil
          success:^(AFHTTPRequestOperation *operation, id responseObject) {
              NSObject *bid;
              bid = responseObject;
              [MBProgressHUD hideAllHUDsForView:self.navigationController.view animated:YES];
-             
+             //NSLog(@"bid response object %@", bid);
              NSArray *bidsTmp = (NSArray *)bid;
+             //NSLog(@"bids array %@", bidsTmp);
+
              NSObject *bidTmp;
              if(bidsTmp) bidTmp = [bidsTmp objectAtIndex:0];
+             //NSLog(@"bidtmp %@", bidTmp);
+
              if(bidTmp)
              {
                  [UIView beginAnimations:@"button_in" context:nil];
@@ -498,7 +490,8 @@ NSString *selectedBidID;
              
          }
          failure:^(AFHTTPRequestOperation *operation, NSError *error) {
-             
+             //NSLog(@"request failure with error %@", [error description]);
+
              switch (error.code) {
                  case -1009:
                      self.infoLabel.text = @"Verifique sua conexão com a Internet e recarregue o conteúdo.";

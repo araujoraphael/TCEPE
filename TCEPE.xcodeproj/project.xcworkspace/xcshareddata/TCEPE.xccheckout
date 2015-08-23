@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>59CAA1BF-4A7B-4B06-9E96-ED4ABB9A4A4F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TCEPE</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3F8ACFA3CBECEEBA466DF53EED50F4DAA53DFE5C</key>
+		<string>https://github.com/araujoraphael/TCEPE.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TCEPE.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3F8ACFA3CBECEEBA466DF53EED50F4DAA53DFE5C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/araujoraphael/TCEPE.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3F8ACFA3CBECEEBA466DF53EED50F4DAA53DFE5C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3F8ACFA3CBECEEBA466DF53EED50F4DAA53DFE5C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TCEPE</string>
+		</dict>
+	</array>
+</dict>
+</plist>
