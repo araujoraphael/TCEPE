@@ -1,223 +1,0 @@
-TPods
-v6
-r1
-cCheck dependencies
-cSymLink /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/BuildProductsPath/Release-iphoneos/libPods.a /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/UninstalledProducts/libPods.a
-cCompileC /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/armv7/Pods-dummy.o /Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Pods-dummy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/armv7s/Pods-dummy.o /Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Pods-dummy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/arm64/Pods-dummy.o /Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Pods-dummy.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLibtool /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/armv7/libPods.a normal armv7
-cLibtool /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/armv7s/libPods.a normal armv7s
-cLibtool /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/arm64/libPods.a normal arm64
-cCreateUniversalBinary /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/UninstalledProducts/libPods.a normal armv7\ armv7s\ arm64
-cSetOwnerAndGroup raphaelaraujo:staff /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/UninstalledProducts/libPods.a
-cSetMode u+w,go-w,a+rX /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/UninstalledProducts/libPods.a
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
-c00000000528159D50000000000000110
-t1384208853
-s272
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
-c00000000526994A7000000000000036B
-t1382651047
-s875
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
-c00000000526994A800000000000001A0
-t1382651048
-s416
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c00000000526994AF0000000000A92BC0
-t1382651055
-s11086784
-
-N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
-c00000000526995590000000000000AC9
-t1382651225
-s2761
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/BuildProductsPath/Release-iphoneos/libPods-AFNetworking.a
-c000000005298A5F000000000003EFD94
-t1385735664
-s4128148
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/BuildProductsPath/Release-iphoneos/libPods.a
-t2
-s0
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/arm64/Pods-dummy.o
-t1385735664
-s4088
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/arm64/Pods.LinkFileList
-c000000005298A5F000000000000000BC
-t1385735664
-s188
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/arm64/libPods.a
-t1385735665
-s1503688
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/armv7/Pods-dummy.o
-t1385735664
-s3512
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/armv7/Pods.LinkFileList
-c000000005298A5F000000000000000BC
-t1385735664
-s188
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/armv7/libPods.a
-t1385735665
-s1318000
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/armv7s/Pods-dummy.o
-t1385735664
-s3512
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/armv7s/Pods.LinkFileList
-c000000005298A5F000000000000000BD
-t1385735664
-s189
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/armv7s/libPods.a
-t1385735665
-s1317984
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/UninstalledProducts/libPods.a
-t2
-s0
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Pods-dummy.m
-c00000000528EE7820000000000000070
-t1385097090
-s112
-
-CBuild AST from /Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Pods-dummy.m
-r0
-
-CCheck dependencies
-r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies3063ba70dd48b841^1e88bc70dd48b841^---0#1#1#--18"Check dependencies36"5BC07F4B-3214-457E-8A07-BE7571616E95-
-
-CCompileC /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/arm64/Pods-dummy.o /Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Pods-dummy.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s407428464.897288
-e407428464.936010
-r1
-xCompileC
-x/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/arm64/Pods-dummy.o
-x/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Pods-dummy.m
-xnormal
-xarm64
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Pods-dummy.m
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Pods-dummy.m278"CompileC /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/arm64/Pods-dummy.o Pods-dummy.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler3dd5e570dd48b841^779fef70dd48b841^---0#0#1#-19%DVTDocumentLocation2@65"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Pods-dummy.m0000000000000000^4029"CompileC /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/arm64/Pods-dummy.o Pods-dummy.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/raphaelaraujo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Pods-generated-files.hmap -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Pods-own-target-headers.hmap -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Pods-all-target-headers.hmap -iquote /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Pods-project-headers.hmap -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/BuildProductsPath/Release-iphoneos/include -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Pods/Headers -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Pods/Headers/AFNetworking -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/DerivedSources/arm64 -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/DerivedSources -F/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/BuildProductsPath/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -MMD -MT dependencies -MF /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/arm64/Pods-dummy.d --serialize-diagnostics /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/arm64/Pods-dummy.dia -c /Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Pods-dummy.m -o /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/arm64/Pods-dummy.o36"75596577-6E60-424D-B986-E538F8E515EE-
-b8567B4EE-9DEB-4902-A4F5-E96CCDAEFC5C
-
-CCompileC /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/armv7/Pods-dummy.o /Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Pods-dummy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s407428464.747749
-e407428464.854948
-r1
-xCompileC
-x/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/armv7/Pods-dummy.o
-x/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Pods-dummy.m
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Pods-dummy.m
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Pods-dummy.m278"CompileC /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/armv7/Pods-dummy.o Pods-dummy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler938dbf70dd48b841^65deda70dd48b841^---0#0#1#-19%DVTDocumentLocation2@65"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Pods-dummy.m0000000000000000^4029"CompileC /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/armv7/Pods-dummy.o Pods-dummy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/raphaelaraujo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Pods-generated-files.hmap -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Pods-own-target-headers.hmap -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Pods-all-target-headers.hmap -iquote /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Pods-project-headers.hmap -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/BuildProductsPath/Release-iphoneos/include -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Pods/Headers -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Pods/Headers/AFNetworking -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/DerivedSources/armv7 -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/DerivedSources -F/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/BuildProductsPath/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -MMD -MT dependencies -MF /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/armv7/Pods-dummy.d --serialize-diagnostics /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/armv7/Pods-dummy.dia -c /Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Pods-dummy.m -o /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/armv7/Pods-dummy.o36"4FD8CC17-3562-4D64-84AD-6208F152C3A2-
-b8567B4EE-9DEB-4902-A4F5-E96CCDAEFC5C
-
-CCompileC /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/armv7s/Pods-dummy.o /Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Pods-dummy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s407428464.855332
-e407428464.896939
-r1
-xCompileC
-x/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/armv7s/Pods-dummy.o
-x/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Pods-dummy.m
-xnormal
-xarmv7s
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Pods-dummy.m
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Pods-dummy.m280"CompileC /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/armv7s/Pods-dummy.o Pods-dummy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler8620db70dd48b841^e99ee570dd48b841^---0#0#1#-19%DVTDocumentLocation2@65"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Pods-dummy.m0000000000000000^4036"CompileC /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/armv7s/Pods-dummy.o Pods-dummy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/raphaelaraujo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Pods-generated-files.hmap -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Pods-own-target-headers.hmap -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Pods-all-target-headers.hmap -iquote /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Pods-project-headers.hmap -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/BuildProductsPath/Release-iphoneos/include -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Pods/Headers -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Pods/Headers/AFNetworking -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/DerivedSources/armv7s -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/DerivedSources -F/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/BuildProductsPath/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -MMD -MT dependencies -MF /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/armv7s/Pods-dummy.d --serialize-diagnostics /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/armv7s/Pods-dummy.dia -c /Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Pods-dummy.m -o /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/armv7s/Pods-dummy.o36"D12D4815-5F7D-425B-AE41-1D907550CCD1-
-b8567B4EE-9DEB-4902-A4F5-E96CCDAEFC5C
-
-CCreateUniversalBinary /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/UninstalledProducts/libPods.a normal armv7\ armv7s\ arm64
-s407428465.096745
-e407428465.262175
-r1
-xCreateUniversalBinary
-x/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/UninstalledProducts/libPods.a
-xnormal
-xarmv7 armv7s arm64
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection168"Create universal binary /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/UninstalledProducts/libPods.a194"CreateUniversalBinary /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/UninstalledProducts/libPods.a normal armv7\ armv7s\ arm6401dc1871dd48b841^8a1f4371dd48b841^---0#0#1#-19%DVTDocumentLocation2@151"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/UninstalledProducts/libPods.a0034543dddffdf42^1160"CreateUniversalBinary /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/UninstalledProducts/libPods.a normal armv7\ armv7s\ arm64    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    libtool -static /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/armv7/libPods.a /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/armv7s/libPods.a /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/arm64/libPods.a -o /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/UninstalledProducts/libPods.a36"4604F44C-E593-4F08-B337-2668ABE487E3-
-b8567B4EE-9DEB-4902-A4F5-E96CCDAEFC5C
-
-CLibtool /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/arm64/libPods.a normal arm64
-s407428465.053235
-e407428465.095925
-r1
-xLibtool
-x/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/arm64/libPods.a
-xnormal
-xarm64
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection205"Libtool /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/arm64/libPods.a normal arm64205"Libtool /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/arm64/libPods.a normal arm641fb90d71dd48b841^aa9a1871dd48b841^---0#0#1#--1285"Libtool /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/arm64/libPods.a normal arm64    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only arm64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/BuildProductsPath/Release-iphoneos -filelist /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/arm64/Pods.LinkFileList -framework Foundation -lPods-AFNetworking -o /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/arm64/libPods.a36"CA94710E-DBBF-41EF-91F6-31CACA9F2AD0-
-b8567B4EE-9DEB-4902-A4F5-E96CCDAEFC5C
-
-CLibtool /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/armv7/libPods.a normal armv7
-s407428464.936909
-e407428465.011175
-r1
-xLibtool
-x/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/armv7/libPods.a
-xnormal
-xarmv7
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection205"Libtool /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/armv7/libPods.a normal armv7205"Libtool /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/armv7/libPods.a normal armv70ff1ef70dd48b841^4fcc0271dd48b841^---0#0#1#--1285"Libtool /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/armv7/libPods.a normal armv7    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/BuildProductsPath/Release-iphoneos -filelist /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/armv7/Pods.LinkFileList -framework Foundation -lPods-AFNetworking -o /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/armv7/libPods.a36"B3CD64F6-0178-4BE9-8549-4E36A63C1AAB-
-b8567B4EE-9DEB-4902-A4F5-E96CCDAEFC5C
-
-CLibtool /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/armv7s/libPods.a normal armv7s
-s407428465.011433
-e407428465.052812
-r1
-xLibtool
-x/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/armv7s/libPods.a
-xnormal
-xarmv7s
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection207"Libtool /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/armv7s/libPods.a normal armv7s207"Libtool /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/armv7s/libPods.a normal armv7s96050371dd48b841^c2880d71dd48b841^---0#0#1#--1290"Libtool /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/armv7s/libPods.a normal armv7s    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7s -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/BuildProductsPath/Release-iphoneos -filelist /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/armv7s/Pods.LinkFileList -framework Foundation -lPods-AFNetworking -o /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/Pods.build/Objects-normal/armv7s/libPods.a36"0610E42B-0D88-4373-BED9-F8D4CE8BE5B8-
-b8567B4EE-9DEB-4902-A4F5-E96CCDAEFC5C
-
-CSetMode u+w,go-w,a+rX /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/UninstalledProducts/libPods.a
-s407428465.271545
-e407428465.279514
-r1
-xSetMode
-xu+w,go-w,a+rX
-x/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/UninstalledProducts/libPods.a
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection166"SetMode u+w,go-w,a+rX /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/UninstalledProducts/libPods.a166"SetMode u+w,go-w,a+rX /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/UninstalledProducts/libPods.a56994571dd48b841^bd8f4771dd48b841^---0#0#1#-19%DVTDocumentLocation2@151"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/UninstalledProducts/libPods.a0000000000000000^586"SetMode u+w,go-w,a+rX /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/UninstalledProducts/libPods.a    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /bin/chmod -RH u+w,go-w,a+rX /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/UninstalledProducts/libPods.a36"E0DF87CF-3FBB-414B-8D84-475AE495918C-
-b8567B4EE-9DEB-4902-A4F5-E96CCDAEFC5C
-
-CSetOwnerAndGroup raphaelaraujo:staff /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/UninstalledProducts/libPods.a
-s407428465.262774
-e407428465.271095
-r1
-xSetOwnerAndGroup
-xraphaelaraujo:staff
-x/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/UninstalledProducts/libPods.a
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection181"SetOwnerAndGroup raphaelaraujo:staff /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/UninstalledProducts/libPods.a181"SetOwnerAndGroup raphaelaraujo:staff /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/UninstalledProducts/libPods.ac1584371dd48b841^66674571dd48b841^---0#0#1#-19%DVTDocumentLocation2@151"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/UninstalledProducts/libPods.a0000000000000000^612"SetOwnerAndGroup raphaelaraujo:staff /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/UninstalledProducts/libPods.a    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/sbin/chown -RH raphaelaraujo:staff /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/UninstalledProducts/libPods.a36"90492439-49AC-4E54-BC19-9819624D65E2-
-b8567B4EE-9DEB-4902-A4F5-E96CCDAEFC5C
-
-CSymLink /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/BuildProductsPath/Release-iphoneos/libPods.a /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/UninstalledProducts/libPods.a
-s407428464.736896
-e407428464.746839
-r1
-xSymLink
-x/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/BuildProductsPath/Release-iphoneos/libPods.a
-x/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/UninstalledProducts/libPods.a
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection140"Process /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/BuildProductsPath/Release-iphoneos/libPods.a285"SymLink /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/BuildProductsPath/Release-iphoneos/libPods.a /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/UninstalledProducts/libPods.acefebc70dd48b841^4b3dbf70dd48b841^---0#0#1#--821"SymLink /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/BuildProductsPath/Release-iphoneos/libPods.a /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/UninstalledProducts/libPods.a    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /bin/ln -sf /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/IntermediateBuildFilesPath/UninstalledProducts/libPods.a /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/ArchiveIntermediates/TCEPE/BuildProductsPath/Release-iphoneos/libPods.a36"5791D886-2613-4792-80BA-3C320B29B5EB-
-b8567B4EE-9DEB-4902-A4F5-E96CCDAEFC5C
-

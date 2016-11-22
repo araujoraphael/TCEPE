@@ -253,7 +253,7 @@ NSString *selectedBidID;
     }
    // NSLog(@"%@", requestUrl);
     
-    requestUrl = @"http://www.paulodiniz.com.br/tce/webservice.php?acao=filtro&ano=2013&julgamento=2";
+    //requestUrl = @"http://www.paulodiniz.com.br/tce/webservice.php?acao=filtro&ano=2013&julgamento=2";
     if(noFilter)
     {
         //NSLog(@"porra1");

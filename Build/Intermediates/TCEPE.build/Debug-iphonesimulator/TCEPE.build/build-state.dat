@@ -1,1738 +1,0 @@
-TTCEPE
-v6
-r1
-cCheck dependencies
-cPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Script-300FE0E918F44EC6849B2806.sh
-cProcessPCH /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/PrecompiledHeaders/TCEPE-Prefix-ecbhyrqhiqbhxbevtjwtfnhkumlv/TCEPE-Prefix.pch.pch TCEPE/TCEPE-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/BidsViewController.o /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/BidDetailsViewController.o /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidDetailsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/FilterViewController.o /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/FilterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/ViewController.o /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/InfoViewController.o /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/InfoViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/MBProgressHUD.o /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/External/MBProgressHUD/MBProgressHUD.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/AppDelegate.o /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/main.o /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/OptionsViewController.o /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/OptionsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/BidTableViewCell.o /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidTableViewCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/TCEPE normal i386
-cCpResource TCEPE/icoFavorito@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/icoFavorito@2x.png
-cCpResource TCEPE/tcepe@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/tcepe@2x.png
-cCpResource TCEPE/estrelaApagada.png Build/Products/Debug-iphonesimulator/TCEPE.app/estrelaApagada.png
-cCpResource TCEPE/back@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/back@2x.png
-cCpResource TCEPE/menu.png Build/Products/Debug-iphonesimulator/TCEPE.app/menu.png
-cCpResource TCEPE/reload@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/reload@2x.png
-cCpResource TCEPE/launchImage640x960.png Build/Products/Debug-iphonesimulator/TCEPE.app/launchImage640x960.png
-cCopyStringsFile /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/en.lproj/InfoPlist.strings TCEPE/en.lproj/InfoPlist.strings
-cCpResource TCEPE/icoFavorito.png Build/Products/Debug-iphonesimulator/TCEPE.app/icoFavorito.png
-cCpResource TCEPE/estrelaApagada@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/estrelaApagada@2x.png
-cCpResource TCEPE/btnInicio@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/btnInicio@2x.png
-cCpResource TCEPE/icoInfo@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/icoInfo@2x.png
-cCompileStoryboard /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/Base.lproj/Main.storyboard
-cCpResource TCEPE/menu@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/menu@2x.png
-cCpResource TCEPE/estrelaLigada.png Build/Products/Debug-iphonesimulator/TCEPE.app/estrelaLigada.png
-cCpResource TCEPE/ico58X58.png Build/Products/Debug-iphonesimulator/TCEPE.app/ico58X58.png
-cCpResource TCEPE/ico80X80@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/ico80X80@2x.png
-cCpResource TCEPE/icoInfo.png Build/Products/Debug-iphonesimulator/TCEPE.app/icoInfo.png
-cCpResource TCEPE/launchImage640x1136.png Build/Products/Debug-iphonesimulator/TCEPE.app/launchImage640x1136.png
-cCpResource TCEPE/back2@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/back2@2x.png
-cCpResource TCEPE/icoFiltro.png Build/Products/Debug-iphonesimulator/TCEPE.app/icoFiltro.png
-cCpResource TCEPE/back2.png Build/Products/Debug-iphonesimulator/TCEPE.app/back2.png
-cCpResource TCEPE/estrelaLigada@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/estrelaLigada@2x.png
-cCpResource TCEPE/icoFale@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/icoFale@2x.png
-cCpResource TCEPE/reload.png Build/Products/Debug-iphonesimulator/TCEPE.app/reload.png
-cCpResource TCEPE/icoFiltro@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/icoFiltro@2x.png
-cCpResource TCEPE/back_.png Build/Products/Debug-iphonesimulator/TCEPE.app/back_.png
-cCpResource Default-568h@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/Default-568h@2x.png
-cCpResource TCEPE/back_@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/back_@2x.png
-cCpResource TCEPE/back.png Build/Products/Debug-iphonesimulator/TCEPE.app/back.png
-cCpResource TCEPE/icoFale.png Build/Products/Debug-iphonesimulator/TCEPE.app/icoFale.png
-cCpResource TCEPE/ico120X120.png Build/Products/Debug-iphonesimulator/TCEPE.app/ico120X120.png
-cCpResource TCEPE/tcepe.png Build/Products/Debug-iphonesimulator/TCEPE.app/tcepe.png
-cCpResource TCEPE/btnInicio.png Build/Products/Debug-iphonesimulator/TCEPE.app/btnInicio.png
-cCompileXIB /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidTableViewCell.xib
-cCompileAssetCatalog /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/Images.xcassets
-cProcessInfoPlistFile /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/Info.plist /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/TCEPE-Info.plist
-cGenerateDSYMFile /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app.dSYM /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/TCEPE
-cPhaseScriptExecution Copy\ Pods\ Resources /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Script-946C1301D28D4EBF9D9FE3FD.sh
-cTouch /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
-c00000000528159E70000000000000176
-t1384208871
-s374
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
-c00000000526994D600000000000003B5
-t1382651094
-s949
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
-c00000000526994E500000000000001A0
-t1382651109
-s416
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
-c00000000526994EA00000000005838D0
-t1382651114
-s5781712
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
-c00000000526994EA00000000005B82A0
-t1382651114
-s5997216
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c00000000526994EB0000000000445870
-t1382651115
-s4479088
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
-c00000000526994EB0000000000355050
-t1382651115
-s3493968
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
-c00000000526994EC00000000002F6810
-t1382651116
-s3106832
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
-c00000000526994EC000000000004B000
-t1382651116
-s307200
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c00000000526994EE000000000088C680
-t1382651118
-s8963712
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
-c00000000526994F000000000002A0770
-t1382651120
-s2754416
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
-c00000000526994F000000000001BA530
-t1382651120
-s1811760
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
-c00000000526994F10000000000037620
-t1382651121
-s226848
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
-c00000000526994F200000000004848F0
-t1382651122
-s4737264
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
-c00000000526994F200000000001290B0
-t1382651122
-s1216688
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
-c00000000526994F300000000001081B0
-t1382651123
-s1081776
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c00000000526994F80000000001DB9910
-t1382651128
-s31168784
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
-c000000005269951500000000002B9F20
-t1382651157
-s2858784
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
-c00000000526995240000000000002338
-t1382651172
-s9016
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
-c0000000052699526000000000008D300
-t1382651174
-s578304
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
-c0000000052699526000000000038ACB0
-t1382651174
-s3714224
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
-c00000000526717AF00000000000141F0
-t1382487983
-s82416
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
-c00000000526995270000000000013500
-t1382651175
-s79104
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
-c00000000526995270000000000033BA0
-t1382651175
-s211872
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
-c0000000052699527000000000001CFB0
-t1382651175
-s118704
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
-c0000000052699527000000000001B2B0
-t1382651175
-s111280
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
-c000000005269952700000000000632B0
-t1382651175
-s406192
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
-c00000000526995270000000000008880
-t1382651175
-s34944
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
-c00000000526995270000000000015080
-t1382651175
-s86144
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
-c000000005269952700000000000230E0
-t1382651175
-s143584
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
-c0000000052699527000000000000E380
-t1382651175
-s58240
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
-c00000000526995270000000000087200
-t1382651175
-s553472
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
-c000000005269952700000000000171A0
-t1382651175
-s94624
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
-c00000000526995270000000000039C10
-t1382651175
-s236560
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
-c0000000052699527000000000000B0B0
-t1382651175
-s45232
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
-c00000000526995270000000000167FE0
-t1382651175
-s1474528
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
-c000000005269952700000000000106A0
-t1382651175
-s67232
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
-c0000000052699527000000000001CE40
-t1382651175
-s118336
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
-c00000000526995270000000000071040
-t1382651175
-s462912
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
-c00000000526995270000000000067A10
-t1382651175
-s424464
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
-c0000000052699527000000000001BAD0
-t1382651175
-s113360
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
-c00000000526995270000000000088BA0
-t1382651175
-s560032
-
-N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
-c00000000526995590000000000000AC9
-t1382651225
-s2761
-
-N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
-c00000000526995590000000000005004
-t1382651225
-s20484
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/PrecompiledHeaders/TCEPE-Prefix-ecbhyrqhiqbhxbevtjwtfnhkumlv/TCEPE-Prefix.pch.pch
-t1385835094
-s118412
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/PrecompiledHeaders/TCEPE-Prefix-gggcgamrwfvauhbxzgokicedwvbu/TCEPE-Prefix.pch.pch
-t1385864052
-s118432
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/AppDelegate.o
-t1385864548
-s66248
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/BidDetailsViewController.o
-t1385864548
-s135960
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/BidTableViewCell.o
-t1385864549
-s58076
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/BidsViewController.o
-t1385864548
-s168732
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/FilterViewController.o
-t1385864548
-s76096
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/InfoViewController.o
-t1385864548
-s43212
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/MBProgressHUD.o
-t1385864549
-s195076
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/OptionsViewController.o
-t1385864548
-s77200
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/TCEPE.LinkFileList
-c00000000529A9B7400000000000005B3
-t1385864052
-s1459
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/ViewController.o
-t1385864548
-s59424
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/main.o
-t1385864548
-s3652
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Script-300FE0E918F44EC6849B2806.sh
-c00000000529A9B740000000000000103
-t1385864052
-s259
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Script-946C1301D28D4EBF9D9FE3FD.sh
-c00000000529A9B74000000000000002F
-t1385864052
-s47
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/assetcatalog_dependencies.txt
-t1385864551
-s255
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/assetcatalog_generated_info.plist
-t1385864551
-s181
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app
-t1385864551
-s1394
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app.dSYM
-t1385864431
-s102
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/Base.lproj/Main.storyboardc
-t1385864551
-s510
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/BidTableViewCell.nib
-t1385864551
-s5039
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/Default-568h@2x.png
-t1385864064
-s18594
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/Info.plist
-t1385864551
-s1215
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/PkgInfo
-t1385864551
-s8
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/TCEPE
-t1385864549
-s785596
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/back.png
-t1385864064
-s1490
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/back2.png
-t1385864064
-s2107
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/back2@2x.png
-t1385864064
-s5162
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/back@2x.png
-t1385864054
-s4127
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/back_.png
-t1385864064
-s2828
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/back_@2x.png
-t1385864064
-s5354
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/btnInicio.png
-t1385864064
-s13403
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/btnInicio@2x.png
-t1385864059
-s44776
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/en.lproj/InfoPlist.strings
-t1385864054
-s42
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/estrelaApagada.png
-t1385864054
-s2324
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/estrelaApagada@2x.png
-t1385864059
-s5958
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/estrelaLigada.png
-t1385864059
-s2588
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/estrelaLigada@2x.png
-t1385864064
-s6570
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/ico120X120.png
-t1385864064
-s14443
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/ico58X58.png
-t1385864059
-s6468
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/ico80X80@2x.png
-t1385864059
-s12630
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/icoFale.png
-t1385864064
-s2148
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/icoFale@2x.png
-t1385864064
-s6751
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/icoFavorito.png
-t1385864059
-s3199
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/icoFavorito@2x.png
-t1385864054
-s13789
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/icoFiltro.png
-t1385864064
-s2275
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/icoFiltro@2x.png
-t1385864064
-s8162
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/icoInfo.png
-t1385864064
-s2231
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/icoInfo@2x.png
-t1385864059
-s8087
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/launchImage640x1136.png
-t1385864064
-s167382
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/launchImage640x960.png
-t1385864054
-s166299
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/menu.png
-t1385864054
-s2635
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/menu@2x.png
-t1385864059
-s5938
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/reload.png
-t1385864064
-s1794
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/reload@2x.png
-t1385864054
-s5713
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/tcepe.png
-t1385864064
-s6383
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/tcepe@2x.png
-t1385864054
-s19413
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/libPods.a
-c00000000529A9CEE0000000000148C78
-t1385864430
-s1346680
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Default-568h@2x.png
-c000000005256553700000000000048A2
-t1381389623
-s18594
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers/AFNetworking/AFHTTPRequestOperation.h
-c00000000528EE7810000000000001192
-t1385097089
-s4498
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers/AFNetworking/AFHTTPRequestOperationManager.h
-c00000000528EE7810000000000004912
-t1385097089
-s18706
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers/AFNetworking/AFHTTPSessionManager.h
-c00000000528EE781000000000000392D
-t1385097089
-s14637
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers/AFNetworking/AFNetworkReachabilityManager.h
-c00000000528EE7810000000000001C91
-t1385097089
-s7313
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers/AFNetworking/AFNetworking.h
-c00000000528EE781000000000000074A
-t1385097089
-s1866
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers/AFNetworking/AFSecurityPolicy.h
-c00000000528EE7810000000000001024
-t1385097089
-s4132
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers/AFNetworking/AFURLConnectionOperation.h
-c00000000528EE781000000000000481C
-t1385097089
-s18460
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers/AFNetworking/AFURLRequestSerialization.h
-c00000000528EE781000000000000411B
-t1385097089
-s16667
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers/AFNetworking/AFURLResponseSerialization.h
-c00000000528EE7810000000000002796
-t1385097089
-s10134
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers/AFNetworking/AFURLSessionManager.h
-c00000000528EE781000000000000638E
-t1385097089
-s25486
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/AppDelegate.h
-c0000000052897E4F000000000000011A
-t1384742479
-s282
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/AppDelegate.m
-c00000000528D2C25000000000000088B
-t1384983589
-s2187
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/Base.lproj/Main.storyboard
-c00000000529A9C3E000000000000D60C
-t1385864254
-s54796
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidDetailsViewController.h
-c00000000528FE7650000000000000224
-t1385162597
-s548
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidDetailsViewController.m
-c000000005298A5220000000000004217
-t1385735458
-s16919
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidTableViewCell.h
-c00000000528FDCCD000000000000024B
-t1385159885
-s587
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidTableViewCell.m
-c00000000528E3EEC000000000000026C
-t1385053932
-s620
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidTableViewCell.xib
-c00000000528FE02E0000000000001BDE
-t1385160750
-s7134
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidsViewController.h
-c00000000528FDB8800000000000002A4
-t1385159560
-s676
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidsViewController.m
-c00000000528FF6BE000000000000464F
-t1385166526
-s17999
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/External/MBProgressHUD/MBProgressHUD.h
-c0000000052846DB60000000000004149
-t1384410550
-s16713
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/External/MBProgressHUD/MBProgressHUD.m
-c0000000052846DB60000000000008115
-t1384410550
-s33045
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/FilterViewController.h
-c00000000528E32C4000000000000011D
-t1385050820
-s285
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/FilterViewController.m
-c00000000528FF6C90000000000000F35
-t1385166537
-s3893
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/Images.xcassets
-c00000000528FF93F0000000000000088
-t1385167167
-s136
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/InfoViewController.h
-c00000000528A955900000000000000E4
-t1384813913
-s228
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/InfoViewController.m
-c00000000528FF66C0000000000000342
-t1385166444
-s834
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/OptionsViewController.h
-c00000000528D0EB70000000000000234
-t1384976055
-s564
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/OptionsViewController.m
-c00000000528FF6CF0000000000000DBD
-t1385166543
-s3517
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/TCEPE-Info.plist
-c00000000529A9B230000000000000850
-t1385863971
-s2128
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/TCEPE-Prefix.pch
-c00000000528F3C44000000000000091A
-t1385118788
-s2330
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/ViewController.h
-c00000000528FB5970000000000000154
-t1385149847
-s340
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/ViewController.m
-c00000000528FF6F70000000000000940
-t1385166583
-s2368
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/back.png
-c00000000528A7E5500000000000005D2
-t1384808021
-s1490
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/back2.png
-c00000000528A7F9F000000000000083B
-t1384808351
-s2107
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/back2@2x.png
-c00000000528A7F5C000000000000142A
-t1384808284
-s5162
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/back@2x.png
-c00000000528A7DE5000000000000101F
-t1384807909
-s4127
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/back_.png
-c00000000528A78160000000000000B0C
-t1384806422
-s2828
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/back_@2x.png
-c00000000528A77F900000000000014EA
-t1384806393
-s5354
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/btnInicio.png
-c00000000528A7181000000000000345B
-t1384804737
-s13403
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/btnInicio@2x.png
-c00000000528A4C1E000000000000AEE8
-t1384795166
-s44776
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/en.lproj/InfoPlist.strings
-c0000000052897E4F000000000000002D
-t1384742479
-s45
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/estrelaApagada.png
-c00000000528F5EC40000000000000914
-t1385127620
-s2324
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/estrelaApagada@2x.png
-c00000000528A50960000000000001746
-t1384796310
-s5958
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/estrelaLigada.png
-c00000000528F5EC40000000000000A1C
-t1385127620
-s2588
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/estrelaLigada@2x.png
-c00000000528A512E00000000000019AA
-t1384796462
-s6570
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/ico120X120.png
-c00000000528FF725000000000000386B
-t1385166629
-s14443
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/ico58X58.png
-c00000000528FF7E20000000000001944
-t1385166818
-s6468
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/ico80X80@2x.png
-c00000000528FF8AC0000000000003156
-t1385167020
-s12630
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/icoFale.png
-c00000000528A75910000000000000864
-t1384805777
-s2148
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/icoFale@2x.png
-c00000000528A4C820000000000001A5F
-t1384795266
-s6751
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/icoFavorito.png
-c00000000528A75910000000000000C7F
-t1384805777
-s3199
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/icoFavorito@2x.png
-c00000000528A4C5000000000000035DD
-t1384795216
-s13789
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/icoFiltro.png
-c00000000528A759100000000000008E3
-t1384805777
-s2275
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/icoFiltro@2x.png
-c00000000528A4CD00000000000001FE2
-t1384795344
-s8162
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/icoInfo.png
-c00000000528A759100000000000008B7
-t1384805777
-s2231
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/icoInfo@2x.png
-c00000000528A4CA80000000000001F97
-t1384795304
-s8087
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/launchImage640x1136.png
-c00000000528FFA970000000000028DD6
-t1385167511
-s167382
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/launchImage640x960.png
-c00000000528FFAD6000000000002899B
-t1385167574
-s166299
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/main.m
-c0000000052897E4F0000000000000156
-t1384742479
-s342
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/menu.png
-c00000000528981480000000000000A4B
-t1384743240
-s2635
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/menu@2x.png
-c000000005289810C0000000000001732
-t1384743180
-s5938
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/reload.png
-c00000000528FD1DE0000000000000702
-t1385157086
-s1794
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/reload@2x.png
-c00000000528FD1C40000000000001651
-t1385157060
-s5713
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/tcepe.png
-c000000005289814800000000000018EF
-t1384743240
-s6383
-
-N/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/tcepe@2x.png
-c00000000528980E70000000000004BD5
-t1384743143
-s19413
-
-N/usr/lib/libSystem.B.dylib
-c0000000052671798000000000000E6D0
-t1382487960
-s59088
-
-N/usr/lib/system/libcache.dylib
-c00000000526717AF0000000000012A00
-t1382487983
-s76288
-
-N/usr/lib/system/libcommonCrypto.dylib
-c0000000052671782000000000002E320
-t1382487938
-s189216
-
-N/usr/lib/system/libcompiler_rt.dylib
-c00000000526717980000000000021860
-t1382487960
-s137312
-
-N/usr/lib/system/libcopyfile.dylib
-c00000000526717AE000000000001B620
-t1382487982
-s112160
-
-N/usr/lib/system/libcorecrypto.dylib
-c00000000526717AE00000000000BD920
-t1382487982
-s776480
-
-N/usr/lib/system/libkeymgr.dylib
-c00000000526717AF000000000000A120
-t1382487983
-s41248
-
-N/usr/lib/system/liblaunch.dylib
-c00000000526717AF000000000001D550
-t1382487983
-s120144
-
-N/usr/lib/system/libmacho.dylib
-c00000000526717AD0000000000014EE0
-t1382487981
-s85728
-
-N/usr/lib/system/libquarantine.dylib
-c00000000526717B10000000000010380
-t1382487985
-s66432
-
-N/usr/lib/system/libremovefile.dylib
-c00000000526717B1000000000000C4C0
-t1382487985
-s50368
-
-N/usr/lib/system/libsystem_asl.dylib
-c00000000526717AF00000000000357A0
-t1382487983
-s219040
-
-N/usr/lib/system/libsystem_blocks.dylib
-c00000000526717AF000000000000C070
-t1382487983
-s49264
-
-N/usr/lib/system/libsystem_c.dylib
-c00000000526717980000000000168C00
-t1382487960
-s1477632
-
-N/usr/lib/system/libsystem_configuration.dylib
-c00000000526717AE0000000000010630
-t1382487982
-s67120
-
-N/usr/lib/system/libsystem_dnssd.dylib
-c00000000526717B0000000000001DF10
-t1382487984
-s122640
-
-N/usr/lib/system/libsystem_info.dylib
-c00000000526717980000000000075B00
-t1382487960
-s482048
-
-N/usr/lib/system/libsystem_kernel.dylib
-c0000000052671798000000000007CC70
-t1382487960
-s511088
-
-N/usr/lib/system/libsystem_m.dylib
-c000000005267179800000000000766C0
-t1382487960
-s485056
-
-N/usr/lib/system/libsystem_malloc.dylib
-c00000000526717AF0000000000044DC0
-t1382487983
-s282048
-
-N/usr/lib/system/libsystem_notify.dylib
-c00000000526717980000000000021FA0
-t1382487960
-s139168
-
-N/usr/lib/system/libsystem_platform.dylib
-c00000000526717B0000000000002D900
-t1382487984
-s186624
-
-N/usr/lib/system/libsystem_pthread.dylib
-c00000000526717B0000000000001E570
-t1382487984
-s124272
-
-N/usr/lib/system/libsystem_sandbox.dylib
-c00000000523CDB16000000000000CC70
-t1379719958
-s52336
-
-N/usr/lib/system/libunc.dylib
-c00000000526717A6000000000000C3F0
-t1382487974
-s50160
-
-N/usr/lib/system/libunwind.dylib
-c00000000526717B000000000000199F0
-t1382487984
-s104944
-
-CBuild AST from /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/AppDelegate.m
-r0
-
-CBuild AST from /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidDetailsViewController.m
-r0
-
-CBuild AST from /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidTableViewCell.m
-r0
-
-CBuild AST from /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidsViewController.m
-r0
-
-CBuild AST from /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/External/MBProgressHUD/MBProgressHUD.m
-r0
-
-CBuild AST from /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/FilterViewController.m
-r0
-
-CBuild AST from /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/InfoViewController.m
-r0
-
-CBuild AST from /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/OptionsViewController.m
-r0
-
-CBuild AST from /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/ViewController.m
-r0
-
-CBuild AST from /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/main.m
-r0
-
-CCheck dependencies
-r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies3b3448e3d44ab841^02a04ae3d44ab841^---0#1#1#--18"Check dependencies36"C26026A8-76D0-43E4-BD92-F22158371257-
-
-CCompileAssetCatalog /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/Images.xcassets
-s407557351.280816
-e407557351.828267
-r1
-xCompileAssetCatalog
-x/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app
-x/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/Images.xcassets
-o2013-11-30 23:22:31.672 IBCocoaTouchImageCatalogTool[2114:303] CFPreferences: user home directory at file:///Users/raphaelaraujo/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
-o/* com.apple.actool.compilation-results */
-o/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/Assets.car
-o/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/assetcatalog_generated_info.plist
-o
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"CompileAssetCatalog Build/Products/Debug-iphonesimulator/TCEPE.app TCEPE/Images.xcassets88"CompileAssetCatalog Build/Products/Debug-iphonesimulator/TCEPE.app TCEPE/Images.xcassets94f947e7d44ab841^1c09d4e7d44ab841^-515"2013-11-30 23:22:31.672 IBCocoaTouchImageCatalogTool[2114:303] CFPreferences: user home directory at file:///Users/raphaelaraujo/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.compilation-results *//Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/Assets.car/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@70"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/Images.xcassets/0000000000000000^1086"CompileAssetCatalog Build/Products/Debug-iphonesimulator/TCEPE.app TCEPE/Images.xcassets    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/assetcatalog_generated_info.plist --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/Images.xcassets36"3573FE0A-265A-4C14-9BD8-3493F126EB55-
-bB82986DA-A2FC-492B-8F66-3E329CD39EE4
-
-CCompileC Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/AppDelegate.o /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s407557348.592039
-e407557348.749986
-r1
-xCompileC
-xBuild/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/AppDelegate.o
-x/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/AppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/AppDelegate.m
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/AppDelegate.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/AppDelegate.m196"CompileC Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/AppDelegate.o TCEPE/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler81b497e4d44ab841^af44c0e4d44ab841^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/AppDelegate.m0000000000000000^3665"CompileC Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/AppDelegate.o TCEPE/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/raphaelaraujo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/TCEPE-generated-files.hmap -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/TCEPE-own-target-headers.hmap -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/TCEPE-all-target-headers.hmap -iquote /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/TCEPE-project-headers.hmap -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/include -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers/AFNetworking -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/DerivedSources/i386 -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/DerivedSources -F/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator -include /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/PrecompiledHeaders/TCEPE-Prefix-ecbhyrqhiqbhxbevtjwtfnhkumlv/TCEPE-Prefix.pch -MMD -MT dependencies -MF /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/AppDelegate.dia -c /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/AppDelegate.m -o /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/AppDelegate.o36"BED209F6-3F8C-4E13-B33E-7DE7D6E43E4D-
-bB82986DA-A2FC-492B-8F66-3E329CD39EE4
-
-CCompileC Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/BidDetailsViewController.o /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidDetailsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s407557347.343200
-e407557348.386557
-r1
-xCompileC
-xBuild/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/BidDetailsViewController.o
-x/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidDetailsViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidDetailsViewController.m
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidDetailsViewController.h
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/External/MBProgressHUD/MBProgressHUD.h
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers/AFNetworking/AFNetworking.h
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers/AFNetworking/AFURLRequestSerialization.h
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers/AFNetworking/AFURLResponseSerialization.h
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers/AFNetworking/AFSecurityPolicy.h
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers/AFNetworking/AFNetworkReachabilityManager.h
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers/AFNetworking/AFURLConnectionOperation.h
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers/AFNetworking/AFHTTPRequestOperation.h
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers/AFNetworking/AFHTTPRequestOperationManager.h
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers/AFNetworking/AFURLSessionManager.h
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers/AFNetworking/AFHTTPSessionManager.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidDetailsViewController.m222"CompileC Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/BidDetailsViewController.o TCEPE/BidDetailsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb24b58e3d44ab841^48f862e4d44ab841^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidDetailsViewController.m0000000000000000^3743"CompileC Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/BidDetailsViewController.o TCEPE/BidDetailsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/raphaelaraujo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/TCEPE-generated-files.hmap -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/TCEPE-own-target-headers.hmap -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/TCEPE-all-target-headers.hmap -iquote /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/TCEPE-project-headers.hmap -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/include -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers/AFNetworking -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/DerivedSources/i386 -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/DerivedSources -F/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator -include /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/PrecompiledHeaders/TCEPE-Prefix-ecbhyrqhiqbhxbevtjwtfnhkumlv/TCEPE-Prefix.pch -MMD -MT dependencies -MF /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/BidDetailsViewController.d --serialize-diagnostics /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/BidDetailsViewController.dia -c /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidDetailsViewController.m -o /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/BidDetailsViewController.o36"03E9222B-F5BF-4B08-84EA-64EFC1DF3A04-
-bB82986DA-A2FC-492B-8F66-3E329CD39EE4
-
-CCompileC Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/BidTableViewCell.o /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidTableViewCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s407557348.958893
-e407557349.072940
-r1
-xCompileC
-xBuild/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/BidTableViewCell.o
-x/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidTableViewCell.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidTableViewCell.m
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidTableViewCell.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidTableViewCell.m206"CompileC Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/BidTableViewCell.o TCEPE/BidTableViewCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler529ef5e4d44ab841^75ac12e5d44ab841^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidTableViewCell.m0000000000000000^3695"CompileC Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/BidTableViewCell.o TCEPE/BidTableViewCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/raphaelaraujo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/TCEPE-generated-files.hmap -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/TCEPE-own-target-headers.hmap -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/TCEPE-all-target-headers.hmap -iquote /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/TCEPE-project-headers.hmap -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/include -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers/AFNetworking -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/DerivedSources/i386 -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/DerivedSources -F/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator -include /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/PrecompiledHeaders/TCEPE-Prefix-ecbhyrqhiqbhxbevtjwtfnhkumlv/TCEPE-Prefix.pch -MMD -MT dependencies -MF /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/BidTableViewCell.d --serialize-diagnostics /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/BidTableViewCell.dia -c /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidTableViewCell.m -o /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/BidTableViewCell.o36"73A94D3B-E909-4919-B3FF-5DAE9828AAC7-
-bB82986DA-A2FC-492B-8F66-3E329CD39EE4
-
-CCompileC Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/BidsViewController.o /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s407557347.341355
-e407557348.297498
-r1
-xCompileC
-xBuild/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/BidsViewController.o
-x/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidsViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidsViewController.m
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidsViewController.h
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/External/MBProgressHUD/MBProgressHUD.h
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidDetailsViewController.h
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidTableViewCell.h
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers/AFNetworking/AFNetworking.h
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers/AFNetworking/AFURLRequestSerialization.h
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers/AFNetworking/AFURLResponseSerialization.h
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers/AFNetworking/AFSecurityPolicy.h
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers/AFNetworking/AFNetworkReachabilityManager.h
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers/AFNetworking/AFURLConnectionOperation.h
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers/AFNetworking/AFHTTPRequestOperation.h
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers/AFNetworking/AFHTTPRequestOperationManager.h
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers/AFNetworking/AFURLSessionManager.h
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers/AFNetworking/AFHTTPSessionManager.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidsViewController.m210"CompileC Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/BidsViewController.o TCEPE/BidsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler628557e3d44ab841^d4284ce4d44ab841^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidsViewController.m0000000000000000^3707"CompileC Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/BidsViewController.o TCEPE/BidsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/raphaelaraujo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/TCEPE-generated-files.hmap -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/TCEPE-own-target-headers.hmap -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/TCEPE-all-target-headers.hmap -iquote /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/TCEPE-project-headers.hmap -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/include -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers/AFNetworking -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/DerivedSources/i386 -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/DerivedSources -F/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator -include /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/PrecompiledHeaders/TCEPE-Prefix-ecbhyrqhiqbhxbevtjwtfnhkumlv/TCEPE-Prefix.pch -MMD -MT dependencies -MF /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/BidsViewController.d --serialize-diagnostics /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/BidsViewController.dia -c /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidsViewController.m -o /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/BidsViewController.o36"D2F7C095-9BB5-4C27-B07D-F5528DE94A68-
-bB82986DA-A2FC-492B-8F66-3E329CD39EE4
-
-CCompileC Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/FilterViewController.o /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/FilterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s407557348.298464
-e407557348.476866
-r1
-xCompileC
-xBuild/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/FilterViewController.o
-x/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/FilterViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/FilterViewController.m
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/FilterViewController.h
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/OptionsViewController.h
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidsViewController.h
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/External/MBProgressHUD/MBProgressHUD.h
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidDetailsViewController.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/FilterViewController.m214"CompileC Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/FilterViewController.o TCEPE/FilterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler86934ce4d44ab841^19ca79e4d44ab841^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/FilterViewController.m0000000000000000^3719"CompileC Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/FilterViewController.o TCEPE/FilterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/raphaelaraujo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/TCEPE-generated-files.hmap -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/TCEPE-own-target-headers.hmap -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/TCEPE-all-target-headers.hmap -iquote /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/TCEPE-project-headers.hmap -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/include -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers/AFNetworking -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/DerivedSources/i386 -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/DerivedSources -F/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator -include /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/PrecompiledHeaders/TCEPE-Prefix-ecbhyrqhiqbhxbevtjwtfnhkumlv/TCEPE-Prefix.pch -MMD -MT dependencies -MF /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/FilterViewController.d --serialize-diagnostics /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/FilterViewController.dia -c /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/FilterViewController.m -o /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/FilterViewController.o36"B4E4FFF5-C7B8-4B95-8329-20944C89B07E-
-bB82986DA-A2FC-492B-8F66-3E329CD39EE4
-
-CCompileC Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/InfoViewController.o /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/InfoViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s407557348.477287
-e407557348.590619
-r1
-xCompileC
-xBuild/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/InfoViewController.o
-x/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/InfoViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/InfoViewController.m
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/InfoViewController.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/InfoViewController.m210"CompileC Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/InfoViewController.o TCEPE/InfoViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler22537ae4d44ab841^f03297e4d44ab841^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/InfoViewController.m0000000000000000^3707"CompileC Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/InfoViewController.o TCEPE/InfoViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/raphaelaraujo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/TCEPE-generated-files.hmap -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/TCEPE-own-target-headers.hmap -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/TCEPE-all-target-headers.hmap -iquote /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/TCEPE-project-headers.hmap -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/include -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers/AFNetworking -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/DerivedSources/i386 -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/DerivedSources -F/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator -include /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/PrecompiledHeaders/TCEPE-Prefix-ecbhyrqhiqbhxbevtjwtfnhkumlv/TCEPE-Prefix.pch -MMD -MT dependencies -MF /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/InfoViewController.d --serialize-diagnostics /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/InfoViewController.dia -c /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/InfoViewController.m -o /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/InfoViewController.o36"C302066C-4540-44D2-8C75-C51E214D7BC0-
-bB82986DA-A2FC-492B-8F66-3E329CD39EE4
-
-CCompileC Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/MBProgressHUD.o /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/External/MBProgressHUD/MBProgressHUD.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s407557348.577117
-e407557349.105092
-r1
-xCompileC
-xBuild/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/MBProgressHUD.o
-x/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/External/MBProgressHUD/MBProgressHUD.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/External/MBProgressHUD/MBProgressHUD.m
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/External/MBProgressHUD/MBProgressHUD.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/External/MBProgressHUD/MBProgressHUD.m223"CompileC Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/MBProgressHUD.o TCEPE/External/MBProgressHUD/MBProgressHUD.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb16a94e4d44ab841^5ce81ae5d44ab841^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/External/MBProgressHUD/MBProgressHUD.m0000000000000000^3723"CompileC Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/MBProgressHUD.o TCEPE/External/MBProgressHUD/MBProgressHUD.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/raphaelaraujo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/TCEPE-generated-files.hmap -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/TCEPE-own-target-headers.hmap -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/TCEPE-all-target-headers.hmap -iquote /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/TCEPE-project-headers.hmap -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/include -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers/AFNetworking -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/DerivedSources/i386 -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/DerivedSources -F/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator -include /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/PrecompiledHeaders/TCEPE-Prefix-ecbhyrqhiqbhxbevtjwtfnhkumlv/TCEPE-Prefix.pch -MMD -MT dependencies -MF /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/MBProgressHUD.d --serialize-diagnostics /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/MBProgressHUD.dia -c /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/External/MBProgressHUD/MBProgressHUD.m -o /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/MBProgressHUD.o36"236E8E9A-0B44-4838-B36C-C59CE0F1FA39-
-bB82986DA-A2FC-492B-8F66-3E329CD39EE4
-
-CCompileC Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/OptionsViewController.o /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/OptionsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s407557348.809859
-e407557348.958529
-r1
-xCompileC
-xBuild/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/OptionsViewController.o
-x/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/OptionsViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/OptionsViewController.m
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/OptionsViewController.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/OptionsViewController.m216"CompileC Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/OptionsViewController.o TCEPE/OptionsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6dc8cfe4d44ab841^3962f5e4d44ab841^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/OptionsViewController.m0000000000000000^3725"CompileC Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/OptionsViewController.o TCEPE/OptionsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/raphaelaraujo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/TCEPE-generated-files.hmap -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/TCEPE-own-target-headers.hmap -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/TCEPE-all-target-headers.hmap -iquote /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/TCEPE-project-headers.hmap -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/include -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers/AFNetworking -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/DerivedSources/i386 -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/DerivedSources -F/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator -include /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/PrecompiledHeaders/TCEPE-Prefix-ecbhyrqhiqbhxbevtjwtfnhkumlv/TCEPE-Prefix.pch -MMD -MT dependencies -MF /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/OptionsViewController.d --serialize-diagnostics /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/OptionsViewController.dia -c /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/OptionsViewController.m -o /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/OptionsViewController.o36"9D791C0D-EFEB-49EF-B123-33D145402FFE-
-bB82986DA-A2FC-492B-8F66-3E329CD39EE4
-
-CCompileC Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/ViewController.o /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s407557348.387983
-e407557348.576156
-r1
-xCompileC
-xBuild/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/ViewController.o
-x/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/ViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/ViewController.m
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/ViewController.h
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidsViewController.h
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/External/MBProgressHUD/MBProgressHUD.h
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidDetailsViewController.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/ViewController.m202"CompileC Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/ViewController.o TCEPE/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler327563e4d44ab841^287f93e4d44ab841^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/ViewController.m0000000000000000^3683"CompileC Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/ViewController.o TCEPE/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/raphaelaraujo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/TCEPE-generated-files.hmap -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/TCEPE-own-target-headers.hmap -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/TCEPE-all-target-headers.hmap -iquote /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/TCEPE-project-headers.hmap -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/include -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers/AFNetworking -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/DerivedSources/i386 -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/DerivedSources -F/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator -include /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/PrecompiledHeaders/TCEPE-Prefix-ecbhyrqhiqbhxbevtjwtfnhkumlv/TCEPE-Prefix.pch -MMD -MT dependencies -MF /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/ViewController.dia -c /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/ViewController.m -o /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/ViewController.o36"BFD7B031-32F3-478C-95E8-FCC7DCD77909-
-bB82986DA-A2FC-492B-8F66-3E329CD39EE4
-
-CCompileC Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/main.o /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s407557348.750348
-e407557348.808287
-r1
-xCompileC
-xBuild/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/main.o
-x/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/main.m
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/AppDelegate.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/main.m182"CompileC Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/main.o TCEPE/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4739c0e4d44ab841^70efcee4d44ab841^---0#0#1#-19%DVTDocumentLocation2@60"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/main.m0000000000000000^3623"CompileC Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/main.o TCEPE/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/raphaelaraujo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/TCEPE-generated-files.hmap -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/TCEPE-own-target-headers.hmap -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/TCEPE-all-target-headers.hmap -iquote /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/TCEPE-project-headers.hmap -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/include -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers/AFNetworking -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/DerivedSources/i386 -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/DerivedSources -F/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator -include /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/PrecompiledHeaders/TCEPE-Prefix-ecbhyrqhiqbhxbevtjwtfnhkumlv/TCEPE-Prefix.pch -MMD -MT dependencies -MF /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/main.dia -c /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/main.m -o /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/main.o36"E7457F0B-3727-492A-80D9-5485B0758910-
-bB82986DA-A2FC-492B-8F66-3E329CD39EE4
-
-CCompileStoryboard /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/Base.lproj/Main.storyboard
-s407557349.314203
-e407557351.115369
-r1
-xCompileStoryboard
-x/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/Base.lproj/Main.storyboard
-o2013-11-30 23:22:30.196 Interface Builder Cocoa Touch Tool[2111:303] CFPreferences: user home directory at file:///Users/raphaelaraujo/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"CompileStoryboard TCEPE/Base.lproj/Main.storyboard50"CompileStoryboard TCEPE/Base.lproj/Main.storyboardf88850e5d44ab841^16891de7d44ab841^-237"2013-11-30 23:22:30.196 Interface Builder Cocoa Touch Tool[2111:303] CFPreferences: user home directory at file:///Users/raphaelaraujo/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@80"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/Base.lproj/Main.storyboard0000000000000000^839"CompileStoryboard TCEPE/Base.lproj/Main.storyboard    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/Base.lproj/Main.storyboardc /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/Base.lproj/Main.storyboard36"52B095A1-5E50-4161-81CE-C40AC747167D-
-bB82986DA-A2FC-492B-8F66-3E329CD39EE4
-
-CCompileXIB /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidTableViewCell.xib
-s407557351.115575
-e407557351.280372
-r1
-xCompileXIB
-x/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidTableViewCell.xib
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compiling /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidTableViewCell.xib37"CompileXIB TCEPE/BidTableViewCell.xib26ac1de7d44ab841^21ca47e7d44ab841^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidTableViewCell.xib0000000000000000^763"CompileXIB TCEPE/BidTableViewCell.xib    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/BidTableViewCell.nib /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/BidTableViewCell.xib36"982157CE-F210-4398-8478-9EB36E3E0C1B-
-bB82986DA-A2FC-492B-8F66-3E329CD39EE4
-
-CCopyStringsFile /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/en.lproj/InfoPlist.strings TCEPE/en.lproj/InfoPlist.strings
-s407556854.715267
-e407556854.717428
-r1
-xCopyStringsFile
-x/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/en.lproj/InfoPlist.strings
-xTCEPE/en.lproj/InfoPlist.strings
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy TCEPE/en.lproj/InfoPlist.strings122"CopyStringsFile Build/Products/Debug-iphonesimulator/TCEPE.app/en.lproj/InfoPlist.strings TCEPE/en.lproj/InfoPlist.strings2233b7f6d24ab841^7aaab7f6d24ab841^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/en.lproj/InfoPlist.strings0000000000000000^589"CopyStringsFile Build/Products/Debug-iphonesimulator/TCEPE.app/en.lproj/InfoPlist.strings TCEPE/en.lproj/InfoPlist.strings    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/en.lproj -- TCEPE/en.lproj/InfoPlist.strings36"4C2DD79B-9D0B-414B-BC5B-1C23E19C8495-
-b5CD96F23-A007-482B-9060-D7B6F082F04F
-
-CCpResource Default-568h@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/Default-568h@2x.png
-s407556864.104193
-e407556864.106410
-r1
-xCpResource
-xDefault-568h@2x.png
-xBuild/Products/Debug-iphonesimulator/TCEPE.app/Default-568h@2x.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Copy Build/Products/Debug-iphonesimulator/TCEPE.app/Default-568h@2x.png97"CpResource Default-568h@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/Default-568h@2x.pngcfbe1a00d34ab841^774a1b00d34ab841^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/Default-568h@2x.png00340492ddffdf42^602"CpResource Default-568h@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/Default-568h@2x.png    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/raphaelaraujo/Workspace/iOS/TCEPE/Default-568h@2x.png /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app36"EB396BAB-FB57-4C7F-89F6-52A0A0EDDF67-
-b5CD96F23-A007-482B-9060-D7B6F082F04F
-
-CCpResource TCEPE/back.png Build/Products/Debug-iphonesimulator/TCEPE.app/back.png
-s407556864.106581
-e407556864.108639
-r1
-xCpResource
-xTCEPE/back.png
-xBuild/Products/Debug-iphonesimulator/TCEPE.app/back.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy Build/Products/Debug-iphonesimulator/TCEPE.app/back.png81"CpResource TCEPE/back.png Build/Products/Debug-iphonesimulator/TCEPE.app/back.png755a1b00d34ab841^73da1b00d34ab841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/back.png00340492ddffdf42^581"CpResource TCEPE/back.png Build/Products/Debug-iphonesimulator/TCEPE.app/back.png    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/back.png /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app36"8D8FE704-E25E-4EF0-834C-90A6E94905FB-
-b5CD96F23-A007-482B-9060-D7B6F082F04F
-
-CCpResource TCEPE/back2.png Build/Products/Debug-iphonesimulator/TCEPE.app/back2.png
-s407556864.095666
-e407556864.097884
-r1
-xCpResource
-xTCEPE/back2.png
-xBuild/Products/Debug-iphonesimulator/TCEPE.app/back2.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy Build/Products/Debug-iphonesimulator/TCEPE.app/back2.png83"CpResource TCEPE/back2.png Build/Products/Debug-iphonesimulator/TCEPE.app/back2.pngeb8f1800d34ab841^0a101900d34ab841^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/back2.png00340492ddffdf42^584"CpResource TCEPE/back2.png Build/Products/Debug-iphonesimulator/TCEPE.app/back2.png    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/back2.png /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app36"982AF14B-CF16-4326-BF35-7737F8628CBE-
-b5CD96F23-A007-482B-9060-D7B6F082F04F
-
-CCpResource TCEPE/back2@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/back2@2x.png
-s407556864.093577
-e407556864.094769
-r1
-xCpResource
-xTCEPE/back2@2x.png
-xBuild/Products/Debug-iphonesimulator/TCEPE.app/back2@2x.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Copy Build/Products/Debug-iphonesimulator/TCEPE.app/back2@2x.png89"CpResource TCEPE/back2@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/back2@2x.png3a061800d34ab841^ed451800d34ab841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/back2@2x.png00340492ddffdf42^593"CpResource TCEPE/back2@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/back2@2x.png    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/back2@2x.png /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app36"7AA82E9D-DCDF-4FD3-9A1A-E9D2CF10C99D-
-b5CD96F23-A007-482B-9060-D7B6F082F04F
-
-CCpResource TCEPE/back@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/back@2x.png
-s407556854.706315
-e407556854.707933
-r1
-xCpResource
-xTCEPE/back@2x.png
-xBuild/Products/Debug-iphonesimulator/TCEPE.app/back@2x.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy Build/Products/Debug-iphonesimulator/TCEPE.app/back@2x.png87"CpResource TCEPE/back@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/back@2x.pnga4e1b4f6d24ab841^3540b5f6d24ab841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/back@2x.png00340492ddffdf42^590"CpResource TCEPE/back@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/back@2x.png    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/back@2x.png /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app36"04011D23-5578-443F-A7C5-6108BFD06DDD-
-b5CD96F23-A007-482B-9060-D7B6F082F04F
-
-CCpResource TCEPE/back_.png Build/Products/Debug-iphonesimulator/TCEPE.app/back_.png
-s407556864.101601
-e407556864.104662
-r1
-xCpResource
-xTCEPE/back_.png
-xBuild/Products/Debug-iphonesimulator/TCEPE.app/back_.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy Build/Products/Debug-iphonesimulator/TCEPE.app/back_.png83"CpResource TCEPE/back_.png Build/Products/Debug-iphonesimulator/TCEPE.app/back_.pnga9151a00d34ab841^2dd01a00d34ab841^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/back_.png00340492ddffdf42^584"CpResource TCEPE/back_.png Build/Products/Debug-iphonesimulator/TCEPE.app/back_.png    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/back_.png /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app36"D4D38C14-CD92-4CB2-BF5A-217B5377AFD5-
-b5CD96F23-A007-482B-9060-D7B6F082F04F
-
-CCpResource TCEPE/back_@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/back_@2x.png
-s407556864.105198
-e407556864.106993
-r1
-xCpResource
-xTCEPE/back_@2x.png
-xBuild/Products/Debug-iphonesimulator/TCEPE.app/back_@2x.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Copy Build/Products/Debug-iphonesimulator/TCEPE.app/back_@2x.png89"CpResource TCEPE/back_@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/back_@2x.png3ffe1a00d34ab841^406a1b00d34ab841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/back_@2x.png00340492ddffdf42^593"CpResource TCEPE/back_@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/back_@2x.png    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/back_@2x.png /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app36"0CE97942-A76E-4F86-9453-EC6BEB26D996-
-b5CD96F23-A007-482B-9060-D7B6F082F04F
-
-CCpResource TCEPE/btnInicio.png Build/Products/Debug-iphonesimulator/TCEPE.app/btnInicio.png
-s407556864.111869
-e407556864.113875
-r1
-xCpResource
-xTCEPE/btnInicio.png
-xBuild/Products/Debug-iphonesimulator/TCEPE.app/btnInicio.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy Build/Products/Debug-iphonesimulator/TCEPE.app/btnInicio.png91"CpResource TCEPE/btnInicio.png Build/Products/Debug-iphonesimulator/TCEPE.app/btnInicio.png5bb41c00d34ab841^c3651d00d34ab841^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/btnInicio.png00340492ddffdf42^596"CpResource TCEPE/btnInicio.png Build/Products/Debug-iphonesimulator/TCEPE.app/btnInicio.png    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/btnInicio.png /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app36"E9023C10-D74D-4586-9903-516464418CD2-
-b5CD96F23-A007-482B-9060-D7B6F082F04F
-
-CCpResource TCEPE/btnInicio@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/btnInicio@2x.png
-s407556859.518459
-e407556859.521569
-r1
-xCpResource
-xTCEPE/btnInicio@2x.png
-xBuild/Products/Debug-iphonesimulator/TCEPE.app/btnInicio@2x.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy Build/Products/Debug-iphonesimulator/TCEPE.app/btnInicio@2x.png97"CpResource TCEPE/btnInicio@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/btnInicio@2x.png77f784fbd24ab841^128685fbd24ab841^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/btnInicio@2x.png00340492ddffdf42^605"CpResource TCEPE/btnInicio@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/btnInicio@2x.png    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/btnInicio@2x.png /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app36"919C4AE3-950C-4E5C-BDD3-A0696ECF7259-
-b5CD96F23-A007-482B-9060-D7B6F082F04F
-
-CCpResource TCEPE/estrelaApagada.png Build/Products/Debug-iphonesimulator/TCEPE.app/estrelaApagada.png
-s407556854.704558
-e407556854.706045
-r1
-xCpResource
-xTCEPE/estrelaApagada.png
-xBuild/Products/Debug-iphonesimulator/TCEPE.app/estrelaApagada.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy Build/Products/Debug-iphonesimulator/TCEPE.app/estrelaApagada.png101"CpResource TCEPE/estrelaApagada.png Build/Products/Debug-iphonesimulator/TCEPE.app/estrelaApagada.png156fb4f6d24ab841^0dc6b4f6d24ab841^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/estrelaApagada.png00340492ddffdf42^611"CpResource TCEPE/estrelaApagada.png Build/Products/Debug-iphonesimulator/TCEPE.app/estrelaApagada.png    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/estrelaApagada.png /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app36"CC500BAD-E831-45A5-9DCB-F06A6AD959E4-
-b5CD96F23-A007-482B-9060-D7B6F082F04F
-
-CCpResource TCEPE/estrelaApagada@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/estrelaApagada@2x.png
-s407556859.516633
-e407556859.518232
-r1
-xCpResource
-xTCEPE/estrelaApagada@2x.png
-xBuild/Products/Debug-iphonesimulator/TCEPE.app/estrelaApagada@2x.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy Build/Products/Debug-iphonesimulator/TCEPE.app/estrelaApagada@2x.png107"CpResource TCEPE/estrelaApagada@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/estrelaApagada@2x.png755584fbd24ab841^71ab84fbd24ab841^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/estrelaApagada@2x.png00340492ddffdf42^620"CpResource TCEPE/estrelaApagada@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/estrelaApagada@2x.png    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/estrelaApagada@2x.png /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app36"D0C55CAC-63C0-4645-8850-CC1E8818B0EB-
-b5CD96F23-A007-482B-9060-D7B6F082F04F
-
-CCpResource TCEPE/estrelaLigada.png Build/Products/Debug-iphonesimulator/TCEPE.app/estrelaLigada.png
-s407556859.526029
-e407556859.528067
-r1
-xCpResource
-xTCEPE/estrelaLigada.png
-xBuild/Products/Debug-iphonesimulator/TCEPE.app/estrelaLigada.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Copy Build/Products/Debug-iphonesimulator/TCEPE.app/estrelaLigada.png99"CpResource TCEPE/estrelaLigada.png Build/Products/Debug-iphonesimulator/TCEPE.app/estrelaLigada.pngadbe86fbd24ab841^733087fbd24ab841^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/estrelaLigada.png00340492ddffdf42^608"CpResource TCEPE/estrelaLigada.png Build/Products/Debug-iphonesimulator/TCEPE.app/estrelaLigada.png    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/estrelaLigada.png /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app36"E6270CBC-6553-40F2-9D26-02241CDF7EDA-
-b5CD96F23-A007-482B-9060-D7B6F082F04F
-
-CCpResource TCEPE/estrelaLigada@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/estrelaLigada@2x.png
-s407556864.097053
-e407556864.098254
-r1
-xCpResource
-xTCEPE/estrelaLigada@2x.png
-xBuild/Products/Debug-iphonesimulator/TCEPE.app/estrelaLigada@2x.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy Build/Products/Debug-iphonesimulator/TCEPE.app/estrelaLigada@2x.png105"CpResource TCEPE/estrelaLigada@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/estrelaLigada@2x.pngbce71800d34ab841^a52e1900d34ab841^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/estrelaLigada@2x.png00340492ddffdf42^617"CpResource TCEPE/estrelaLigada@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/estrelaLigada@2x.png    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/estrelaLigada@2x.png /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app36"28A69DAE-675B-4382-8B66-8CD4C5DA167F-
-b5CD96F23-A007-482B-9060-D7B6F082F04F
-
-CCpResource TCEPE/ico120X120.png Build/Products/Debug-iphonesimulator/TCEPE.app/ico120X120.png
-s407556864.109023
-e407556864.111445
-r1
-xCpResource
-xTCEPE/ico120X120.png
-xBuild/Products/Debug-iphonesimulator/TCEPE.app/ico120X120.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Copy Build/Products/Debug-iphonesimulator/TCEPE.app/ico120X120.png93"CpResource TCEPE/ico120X120.png Build/Products/Debug-iphonesimulator/TCEPE.app/ico120X120.pngf10e1c00d34ab841^2a8d1c00d34ab841^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/ico120X120.png00340492ddffdf42^599"CpResource TCEPE/ico120X120.png Build/Products/Debug-iphonesimulator/TCEPE.app/ico120X120.png    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/ico120X120.png /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app36"2525ABB5-AB08-4110-A10C-160E1DC028E4-
-b5CD96F23-A007-482B-9060-D7B6F082F04F
-
-CCpResource TCEPE/ico58X58.png Build/Products/Debug-iphonesimulator/TCEPE.app/ico58X58.png
-s407556859.528477
-e407556859.529866
-r1
-xCpResource
-xTCEPE/ico58X58.png
-xBuild/Products/Debug-iphonesimulator/TCEPE.app/ico58X58.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Copy Build/Products/Debug-iphonesimulator/TCEPE.app/ico58X58.png89"CpResource TCEPE/ico58X58.png Build/Products/Debug-iphonesimulator/TCEPE.app/ico58X58.png075c87fbd24ab841^7aa687fbd24ab841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/ico58X58.png00340492ddffdf42^593"CpResource TCEPE/ico58X58.png Build/Products/Debug-iphonesimulator/TCEPE.app/ico58X58.png    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/ico58X58.png /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app36"54DB52BB-F5E9-409E-8349-44591EF1481A-
-b5CD96F23-A007-482B-9060-D7B6F082F04F
-
-CCpResource TCEPE/ico80X80@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/ico80X80@2x.png
-s407556859.530055
-e407556859.531769
-r1
-xCpResource
-xTCEPE/ico80X80@2x.png
-xBuild/Products/Debug-iphonesimulator/TCEPE.app/ico80X80@2x.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy Build/Products/Debug-iphonesimulator/TCEPE.app/ico80X80@2x.png95"CpResource TCEPE/ico80X80@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/ico80X80@2x.pngbec187fbd24ab841^c76588fbd24ab841^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/ico80X80@2x.png00340492ddffdf42^602"CpResource TCEPE/ico80X80@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/ico80X80@2x.png    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/ico80X80@2x.png /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app36"498B2E6B-2565-4D0E-B8B1-C3E1641BE97F-
-b5CD96F23-A007-482B-9060-D7B6F082F04F
-
-CCpResource TCEPE/icoFale.png Build/Products/Debug-iphonesimulator/TCEPE.app/icoFale.png
-s407556864.107143
-e407556864.108954
-r1
-xCpResource
-xTCEPE/icoFale.png
-xBuild/Products/Debug-iphonesimulator/TCEPE.app/icoFale.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy Build/Products/Debug-iphonesimulator/TCEPE.app/icoFale.png87"CpResource TCEPE/icoFale.png Build/Products/Debug-iphonesimulator/TCEPE.app/icoFale.png357c1b00d34ab841^47e41b00d34ab841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/icoFale.png00340492ddffdf42^590"CpResource TCEPE/icoFale.png Build/Products/Debug-iphonesimulator/TCEPE.app/icoFale.png    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/icoFale.png /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app36"965E2718-65DE-4C54-91AF-01B44CB9E990-
-b5CD96F23-A007-482B-9060-D7B6F082F04F
-
-CCpResource TCEPE/icoFale@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/icoFale@2x.png
-s407556864.098005
-e407556864.099926
-r1
-xCpResource
-xTCEPE/icoFale@2x.png
-xBuild/Products/Debug-iphonesimulator/TCEPE.app/icoFale@2x.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Copy Build/Products/Debug-iphonesimulator/TCEPE.app/icoFale@2x.png93"CpResource TCEPE/icoFale@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/icoFale@2x.png3b371900d34ab841^93a61900d34ab841^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/icoFale@2x.png00340492ddffdf42^599"CpResource TCEPE/icoFale@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/icoFale@2x.png    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/icoFale@2x.png /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app36"E6A1B75A-9C0C-49DB-A60C-9639BF4508A7-
-b5CD96F23-A007-482B-9060-D7B6F082F04F
-
-CCpResource TCEPE/icoFavorito.png Build/Products/Debug-iphonesimulator/TCEPE.app/icoFavorito.png
-s407556859.513836
-e407556859.515436
-r1
-xCpResource
-xTCEPE/icoFavorito.png
-xBuild/Products/Debug-iphonesimulator/TCEPE.app/icoFavorito.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy Build/Products/Debug-iphonesimulator/TCEPE.app/icoFavorito.png95"CpResource TCEPE/icoFavorito.png Build/Products/Debug-iphonesimulator/TCEPE.app/icoFavorito.png999f83fbd24ab841^45f483fbd24ab841^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/icoFavorito.png00340492ddffdf42^602"CpResource TCEPE/icoFavorito.png Build/Products/Debug-iphonesimulator/TCEPE.app/icoFavorito.png    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/icoFavorito.png /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app36"9765101B-D875-4602-9DA8-103E0B021FBE-
-b5CD96F23-A007-482B-9060-D7B6F082F04F
-
-CCpResource TCEPE/icoFavorito@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/icoFavorito@2x.png
-s407556854.693981
-e407556854.701736
-r1
-xCpResource
-xTCEPE/icoFavorito@2x.png
-xBuild/Products/Debug-iphonesimulator/TCEPE.app/icoFavorito@2x.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy Build/Products/Debug-iphonesimulator/TCEPE.app/icoFavorito@2x.png101"CpResource TCEPE/icoFavorito@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/icoFavorito@2x.pngdfbfb1f6d24ab841^48a6b3f6d24ab841^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/icoFavorito@2x.png00340492ddffdf42^611"CpResource TCEPE/icoFavorito@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/icoFavorito@2x.png    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/icoFavorito@2x.png /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app36"ED0A5A86-1C60-4B57-A5C1-781BE6F61CF7-
-b5CD96F23-A007-482B-9060-D7B6F082F04F
-
-CCpResource TCEPE/icoFiltro.png Build/Products/Debug-iphonesimulator/TCEPE.app/icoFiltro.png
-s407556864.095195
-e407556864.096745
-r1
-xCpResource
-xTCEPE/icoFiltro.png
-xBuild/Products/Debug-iphonesimulator/TCEPE.app/icoFiltro.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy Build/Products/Debug-iphonesimulator/TCEPE.app/icoFiltro.png91"CpResource TCEPE/icoFiltro.png Build/Products/Debug-iphonesimulator/TCEPE.app/icoFiltro.png4b721800d34ab841^87c51800d34ab841^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/icoFiltro.png00340492ddffdf42^596"CpResource TCEPE/icoFiltro.png Build/Products/Debug-iphonesimulator/TCEPE.app/icoFiltro.png    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/icoFiltro.png /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app36"71FFD2EA-D77C-454F-BCB1-518757A07497-
-b5CD96F23-A007-482B-9060-D7B6F082F04F
-
-CCpResource TCEPE/icoFiltro@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/icoFiltro@2x.png
-s407556864.100080
-e407556864.103240
-r1
-xCpResource
-xTCEPE/icoFiltro@2x.png
-xBuild/Products/Debug-iphonesimulator/TCEPE.app/icoFiltro@2x.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy Build/Products/Debug-iphonesimulator/TCEPE.app/icoFiltro@2x.png97"CpResource TCEPE/icoFiltro@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/icoFiltro@2x.png1fb91900d34ab841^da721a00d34ab841^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/icoFiltro@2x.png00340492ddffdf42^605"CpResource TCEPE/icoFiltro@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/icoFiltro@2x.png    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/icoFiltro@2x.png /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app36"91E17765-CA30-4F71-8AEC-5CE2CAA9C970-
-b5CD96F23-A007-482B-9060-D7B6F082F04F
-
-CCpResource TCEPE/icoInfo.png Build/Products/Debug-iphonesimulator/TCEPE.app/icoInfo.png
-s407556864.090677
-e407556864.093183
-r1
-xCpResource
-xTCEPE/icoInfo.png
-xBuild/Products/Debug-iphonesimulator/TCEPE.app/icoInfo.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy Build/Products/Debug-iphonesimulator/TCEPE.app/icoInfo.png87"CpResource TCEPE/icoInfo.png Build/Products/Debug-iphonesimulator/TCEPE.app/icoInfo.png774a1700d34ab841^f5db1700d34ab841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/icoInfo.png00340492ddffdf42^590"CpResource TCEPE/icoInfo.png Build/Products/Debug-iphonesimulator/TCEPE.app/icoInfo.png    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/icoInfo.png /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app36"989D8EE2-2128-4E43-8839-280B93E313A5-
-b5CD96F23-A007-482B-9060-D7B6F082F04F
-
-CCpResource TCEPE/icoInfo@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/icoInfo@2x.png
-s407556859.521825
-e407556859.523576
-r1
-xCpResource
-xTCEPE/icoInfo@2x.png
-xBuild/Products/Debug-iphonesimulator/TCEPE.app/icoInfo@2x.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Copy Build/Products/Debug-iphonesimulator/TCEPE.app/icoInfo@2x.png93"CpResource TCEPE/icoInfo@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/icoInfo@2x.png7aa885fbd24ab841^ee0986fbd24ab841^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/icoInfo@2x.png00340492ddffdf42^599"CpResource TCEPE/icoInfo@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/icoInfo@2x.png    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/icoInfo@2x.png /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app36"0519864C-C57C-412B-AEC1-9A7B0A5FE4DD-
-b5CD96F23-A007-482B-9060-D7B6F082F04F
-
-CCpResource TCEPE/launchImage640x1136.png Build/Products/Debug-iphonesimulator/TCEPE.app/launchImage640x1136.png
-s407556864.091570
-e407556864.094777
-r1
-xCpResource
-xTCEPE/launchImage640x1136.png
-xBuild/Products/Debug-iphonesimulator/TCEPE.app/launchImage640x1136.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Copy Build/Products/Debug-iphonesimulator/TCEPE.app/launchImage640x1136.png111"CpResource TCEPE/launchImage640x1136.png Build/Products/Debug-iphonesimulator/TCEPE.app/launchImage640x1136.png2c821700d34ab841^514e1800d34ab841^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/launchImage640x1136.png00340492ddffdf42^626"CpResource TCEPE/launchImage640x1136.png Build/Products/Debug-iphonesimulator/TCEPE.app/launchImage640x1136.png    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/launchImage640x1136.png /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app36"F193EDDA-2DE0-4038-BC2C-D1BF548BAF27-
-b5CD96F23-A007-482B-9060-D7B6F082F04F
-
-CCpResource TCEPE/launchImage640x960.png Build/Products/Debug-iphonesimulator/TCEPE.app/launchImage640x960.png
-s407556854.711411
-e407556854.714884
-r1
-xCpResource
-xTCEPE/launchImage640x960.png
-xBuild/Products/Debug-iphonesimulator/TCEPE.app/launchImage640x960.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Copy Build/Products/Debug-iphonesimulator/TCEPE.app/launchImage640x960.png109"CpResource TCEPE/launchImage640x960.png Build/Products/Debug-iphonesimulator/TCEPE.app/launchImage640x960.png5131b6f6d24ab841^0404b7f6d24ab841^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/launchImage640x960.png00340492ddffdf42^623"CpResource TCEPE/launchImage640x960.png Build/Products/Debug-iphonesimulator/TCEPE.app/launchImage640x960.png    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/launchImage640x960.png /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app36"6BC8E575-A55E-401C-BE7C-2626FC00870D-
-b5CD96F23-A007-482B-9060-D7B6F082F04F
-
-CCpResource TCEPE/menu.png Build/Products/Debug-iphonesimulator/TCEPE.app/menu.png
-s407556854.708345
-e407556854.709852
-r1
-xCpResource
-xTCEPE/menu.png
-xBuild/Products/Debug-iphonesimulator/TCEPE.app/menu.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy Build/Products/Debug-iphonesimulator/TCEPE.app/menu.png81"CpResource TCEPE/menu.png Build/Products/Debug-iphonesimulator/TCEPE.app/menu.pngec67b5f6d24ab841^0abab5f6d24ab841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/menu.png00340492ddffdf42^581"CpResource TCEPE/menu.png Build/Products/Debug-iphonesimulator/TCEPE.app/menu.png    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/menu.png /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app36"D2D0D517-3E09-476B-8612-032A4DEF773A-
-b5CD96F23-A007-482B-9060-D7B6F082F04F
-
-CCpResource TCEPE/menu@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/menu@2x.png
-s407556859.523768
-e407556859.525698
-r1
-xCpResource
-xTCEPE/menu@2x.png
-xBuild/Products/Debug-iphonesimulator/TCEPE.app/menu@2x.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy Build/Products/Debug-iphonesimulator/TCEPE.app/menu@2x.png87"CpResource TCEPE/menu@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/menu@2x.png6b2786fbd24ab841^50c886fbd24ab841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/menu@2x.png00340492ddffdf42^590"CpResource TCEPE/menu@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/menu@2x.png    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/menu@2x.png /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app36"3DCBE79A-FAB2-4B72-A923-573C95FDCF7D-
-b5CD96F23-A007-482B-9060-D7B6F082F04F
-
-CCpResource TCEPE/reload.png Build/Products/Debug-iphonesimulator/TCEPE.app/reload.png
-s407556864.098606
-e407556864.100631
-r1
-xCpResource
-xTCEPE/reload.png
-xBuild/Products/Debug-iphonesimulator/TCEPE.app/reload.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy Build/Products/Debug-iphonesimulator/TCEPE.app/reload.png85"CpResource TCEPE/reload.png Build/Products/Debug-iphonesimulator/TCEPE.app/reload.png22501900d34ab841^93c51900d34ab841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/reload.png00340492ddffdf42^587"CpResource TCEPE/reload.png Build/Products/Debug-iphonesimulator/TCEPE.app/reload.png    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/reload.png /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app36"DA8EFEC7-ED5C-4BB6-A447-95454858A134-
-b5CD96F23-A007-482B-9060-D7B6F082F04F
-
-CCpResource TCEPE/reload@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/reload@2x.png
-s407556854.710116
-e407556854.711227
-r1
-xCpResource
-xTCEPE/reload@2x.png
-xBuild/Products/Debug-iphonesimulator/TCEPE.app/reload@2x.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy Build/Products/Debug-iphonesimulator/TCEPE.app/reload@2x.png91"CpResource TCEPE/reload@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/reload@2x.png8cdab5f6d24ab841^753cb6f6d24ab841^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/reload@2x.png00340492ddffdf42^596"CpResource TCEPE/reload@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/reload@2x.png    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/reload@2x.png /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app36"17387844-B6F7-4CD1-A6F2-59CCF16D4DD7-
-b5CD96F23-A007-482B-9060-D7B6F082F04F
-
-CCpResource TCEPE/tcepe.png Build/Products/Debug-iphonesimulator/TCEPE.app/tcepe.png
-s407556864.110348
-e407556864.112707
-r1
-xCpResource
-xTCEPE/tcepe.png
-xBuild/Products/Debug-iphonesimulator/TCEPE.app/tcepe.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy Build/Products/Debug-iphonesimulator/TCEPE.app/tcepe.png83"CpResource TCEPE/tcepe.png Build/Products/Debug-iphonesimulator/TCEPE.app/tcepe.png54551c00d34ab841^9b1d1d00d34ab841^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/tcepe.png00340492ddffdf42^584"CpResource TCEPE/tcepe.png Build/Products/Debug-iphonesimulator/TCEPE.app/tcepe.png    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/tcepe.png /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app36"F6F9EB34-82BE-4DAE-A087-DEE24FD6854B-
-b5CD96F23-A007-482B-9060-D7B6F082F04F
-
-CCpResource TCEPE/tcepe@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/tcepe@2x.png
-s407556854.702003
-e407556854.704270
-r1
-xCpResource
-xTCEPE/tcepe@2x.png
-xBuild/Products/Debug-iphonesimulator/TCEPE.app/tcepe@2x.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Copy Build/Products/Debug-iphonesimulator/TCEPE.app/tcepe@2x.png89"CpResource TCEPE/tcepe@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/tcepe@2x.png25c9b3f6d24ab841^594cb4f6d24ab841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/tcepe@2x.png00340492ddffdf42^593"CpResource TCEPE/tcepe@2x.png Build/Products/Debug-iphonesimulator/TCEPE.app/tcepe@2x.png    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/tcepe@2x.png /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app36"278C4E95-BD5D-4DF2-812D-BEF34E3B9A74-
-b5CD96F23-A007-482B-9060-D7B6F082F04F
-
-CGenerateDSYMFile /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app.dSYM /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/TCEPE
-s407557351.832801
-e407557351.942744
-r1
-xGenerateDSYMFile
-x/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app.dSYM
-x/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/TCEPE
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Generate /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app.dSYM121"GenerateDSYMFile Build/Products/Debug-iphonesimulator/TCEPE.app.dSYM Build/Products/Debug-iphonesimulator/TCEPE.app/TCEPE2045d5e7d44ab841^9758f1e7d44ab841^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app.dSYM/0000000000000000^655"GenerateDSYMFile Build/Products/Debug-iphonesimulator/TCEPE.app.dSYM Build/Products/Debug-iphonesimulator/TCEPE.app/TCEPE    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/TCEPE -o /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app.dSYM36"1218A7E4-228E-4345-B027-149ECD05496E-
-bB82986DA-A2FC-492B-8F66-3E329CD39EE4
-
-CLd /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/TCEPE normal i386
-s407557349.108783
-e407557349.310564
-r1
-xLd
-x/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/TCEPE
-xnormal
-xi386
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/TCEPE.LinkFileList
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/BidsViewController.o
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/BidDetailsViewController.o
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/FilterViewController.o
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/ViewController.o
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/InfoViewController.o
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/MBProgressHUD.o
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/AppDelegate.o
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/main.o
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/OptionsViewController.o
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/BidTableViewCell.o
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/libPods.a
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
-d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
-d/usr/lib/libSystem.B.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
-d/usr/lib/system/libcache.dylib
-d/usr/lib/system/libcommonCrypto.dylib
-d/usr/lib/system/libcompiler_rt.dylib
-d/usr/lib/system/libcopyfile.dylib
-d/usr/lib/system/libcorecrypto.dylib
-d/usr/lib/system/libkeymgr.dylib
-d/usr/lib/system/liblaunch.dylib
-d/usr/lib/system/libmacho.dylib
-d/usr/lib/system/libquarantine.dylib
-d/usr/lib/system/libremovefile.dylib
-d/usr/lib/system/libsystem_asl.dylib
-d/usr/lib/system/libsystem_blocks.dylib
-d/usr/lib/system/libsystem_c.dylib
-d/usr/lib/system/libsystem_configuration.dylib
-d/usr/lib/system/libsystem_dnssd.dylib
-d/usr/lib/system/libsystem_info.dylib
-d/usr/lib/system/libsystem_kernel.dylib
-d/usr/lib/system/libsystem_m.dylib
-d/usr/lib/system/libsystem_malloc.dylib
-d/usr/lib/system/libsystem_notify.dylib
-d/usr/lib/system/libsystem_platform.dylib
-d/usr/lib/system/libsystem_pthread.dylib
-d/usr/lib/system/libsystem_sandbox.dylib
-d/usr/lib/system/libunc.dylib
-d/usr/lib/system/libunwind.dylib
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Link /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/TCEPE67"Ld Build/Products/Debug-iphonesimulator/TCEPE.app/TCEPE normal i38634f41be5d44ab841^2b864fe5d44ab841^---0#0#1#--1520"Ld Build/Products/Debug-iphonesimulator/TCEPE.app/TCEPE normal i386    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator -F/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator -filelist /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/TCEPE.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -ObjC -framework CoreGraphics -framework MobileCoreServices -framework Security -framework SystemConfiguration -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework MessageUI -framework CoreGraphics -framework UIKit -framework Foundation -lPods -Xlinker -dependency_info -Xlinker /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Objects-normal/i386/TCEPE_dependency_info.dat -o /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/TCEPE36"34F1C526-C510-47AF-A8FC-FEB89B80139A-
-bB82986DA-A2FC-492B-8F66-3E329CD39EE4
-
-CPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Script-300FE0E918F44EC6849B2806.sh
-s407557347.291874
-e407557347.338667
-r1
-xPhaseScriptExecution
-xCheck Pods Manifest.lock
-x/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Script-300FE0E918F44EC6849B2806.sh
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run custom shell script 'Check Pods Manifest.lock'148"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Script-300FE0E918F44EC6849B2806.sh82534be3d44ab841^38f456e3d44ab841^---0#0#1#--354"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Script-300FE0E918F44EC6849B2806.sh    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    /bin/sh -c /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Script-300FE0E918F44EC6849B2806.sh36"D54F5B56-7264-4191-B9EE-222A80310F89-
-bB82986DA-A2FC-492B-8F66-3E329CD39EE4
-
-CPhaseScriptExecution Copy\ Pods\ Resources /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Script-946C1301D28D4EBF9D9FE3FD.sh
-s407557351.944746
-e407557352.531071
-r1
-xPhaseScriptExecution
-xCopy Pods Resources
-x/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Script-946C1301D28D4EBF9D9FE3FD.sh
-obuilding file list ... done
-o
-osent 29 bytes  received 20 bytes  98.00 bytes/sec
-ototal size is 0  speedup is 0.00
-o2013-11-30 23:22:32.408 IBCocoaTouchImageCatalogTool[2129:303] CFPreferences: user home directory at file:///Users/raphaelaraujo/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
-o/* com.apple.actool.compilation-results */
-o/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/Assets.car
-o
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Run custom shell script 'Copy Pods Resources'143"PhaseScriptExecution Copy\ Pods\ Resources Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Script-946C1301D28D4EBF9D9FE3FD.sh9467f2e7d44ab841^fdf487e8d44ab841^-486"building file list ... donesent 29 bytes  received 20 bytes  98.00 bytes/sectotal size is 0  speedup is 0.002013-11-30 23:22:32.408 IBCocoaTouchImageCatalogTool[2129:303] CFPreferences: user home directory at file:///Users/raphaelaraujo/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.compilation-results *//Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/Assets.car6(21%IDEActivityLogMessage2@28"building file list ... done-407557351#0#28#-0#-----2@50"sent 29 bytes  received 20 bytes  98.00 bytes/sec-407557352#29#50#-0#-----2@33"total size is 0  speedup is 0.00-407557352#79#33#-0#-----2@231"2013-11-30 23:22:32.408 IBCocoaTouchImageCatalogTool[2129:303] CFPreferences: user home directory at file:///Users/raphaelaraujo/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-407557352#112#231#-0#-----2@43"/* com.apple.actool.compilation-results */-407557352#343#43#-0#-----2@99"/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/Assets.car-407557352#386#99#-0#-----0#0#1#--349"PhaseScriptExecution Copy\ Pods\ Resources Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Script-946C1301D28D4EBF9D9FE3FD.sh    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    /bin/sh -c /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/Script-946C1301D28D4EBF9D9FE3FD.sh36"3F012244-8512-4613-A933-2C95FE4A21C7-
-bB82986DA-A2FC-492B-8F66-3E329CD39EE4
-
-CProcessInfoPlistFile /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/Info.plist /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/TCEPE-Info.plist
-s407557351.830106
-e407557351.832129
-r1
-xProcessInfoPlistFile
-x/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/Info.plist
-x/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/TCEPE-Info.plist
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Process /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/TCEPE-Info.plist101"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/TCEPE.app/Info.plist TCEPE/TCEPE-Info.plist3a95d4e7d44ab841^a8ffd4e7d44ab841^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/TCEPE-Info.plist0000000000000000^874"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/TCEPE.app/Info.plist TCEPE/TCEPE-Info.plist    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/TCEPE-Info.plist -genpkginfo /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/assetcatalog_generated_info.plist -o /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app/Info.plist36"159D8DDC-5318-47BB-BD0C-16004ED5CF88-
-bB82986DA-A2FC-492B-8F66-3E329CD39EE4
-
-CProcessPCH /Users/raphaelaraujo/Library/Developer/Xcode/DerivedData/TCEPE-hfzkhhaszorrvoawmqyoyaxwfqld/Index/PrecompiledHeaders/TCEPE-Prefix-fimhfemzzniexcbulyejsgduiwwt_ast/TCEPE-Prefix.pch.pch TCEPE/TCEPE-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CProcessPCH /Users/raphaelaraujo/Library/Developer/Xcode/DerivedData/TCEPE-hfzkhhaszorrvoawmqyoyaxwfqld/Index/PrecompiledHeaders/TCEPE-Prefix-flxquhdcobxkbtggnqmuawqgrlyr_ast/TCEPE-Prefix.pch.pch TCEPE/TCEPE-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CProcessPCH /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/PrecompiledHeaders/TCEPE-Prefix-ecbhyrqhiqbhxbevtjwtfnhkumlv/TCEPE-Prefix.pch.pch TCEPE/TCEPE-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CProcessPCH /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/PrecompiledHeaders/TCEPE-Prefix-gggcgamrwfvauhbxzgokicedwvbu/TCEPE-Prefix.pch.pch TCEPE/TCEPE-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s407556852.789195
-e407556852.959855
-r1
-xProcessPCH
-x/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/PrecompiledHeaders/TCEPE-Prefix-gggcgamrwfvauhbxzgokicedwvbu/TCEPE-Prefix.pch.pch
-xTCEPE/TCEPE-Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/TCEPE-Prefix.pch
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile TCEPE/TCEPE-Prefix.pch203"ProcessPCH Build/Intermediates/PrecompiledHeaders/TCEPE-Prefix-gggcgamrwfvauhbxzgokicedwvbu/TCEPE-Prefix.pch.pch TCEPE/TCEPE-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb22acaf4d24ab841^3dbaf5f4d24ab841^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/TCEPE-Prefix.pch0000000000000000^3536"ProcessPCH Build/Intermediates/PrecompiledHeaders/TCEPE-Prefix-gggcgamrwfvauhbxzgokicedwvbu/TCEPE-Prefix.pch.pch TCEPE/TCEPE-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/raphaelaraujo/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/TCEPE-generated-files.hmap -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/TCEPE-own-target-headers.hmap -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/TCEPE-all-target-headers.hmap -iquote /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/TCEPE-project-headers.hmap -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/include -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Pods/Headers/AFNetworking -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/DerivedSources/i386 -I/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/TCEPE.build/Debug-iphonesimulator/TCEPE.build/DerivedSources -F/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/PrecompiledHeaders/TCEPE-Prefix-gggcgamrwfvauhbxzgokicedwvbu/TCEPE-Prefix.pch.dia -MMD -MT dependencies -MF /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/PrecompiledHeaders/TCEPE-Prefix-gggcgamrwfvauhbxzgokicedwvbu/TCEPE-Prefix.pch.d -c /Users/raphaelaraujo/Workspace/iOS/TCEPE/TCEPE/TCEPE-Prefix.pch -o /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Intermediates/PrecompiledHeaders/TCEPE-Prefix-gggcgamrwfvauhbxzgokicedwvbu/TCEPE-Prefix.pch.pch36"CBB4E01F-CA89-4E63-8DC5-3C5BEF3E3296-
-b5CD96F23-A007-482B-9060-D7B6F082F04F
-
-CTouch /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app
-s407557060.143009
-e407557060.150485
-r1
-xTouch
-x/Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Touch /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app52"Touch Build/Products/Debug-iphonesimulator/TCEPE.app4bb024c4d34ab841^728a26c4d34ab841^---0#0#1#--406"Touch Build/Products/Debug-iphonesimulator/TCEPE.app    cd /Users/raphaelaraujo/Workspace/iOS/TCEPE    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/raphaelaraujo/Workspace/iOS/TCEPE/Build/Products/Debug-iphonesimulator/TCEPE.app36"4884745C-6919-4F45-854F-78A7A714121E-
-b5178DC97-5BCB-43D4-B108-5360D9704E1F
-
